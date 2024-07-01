@@ -4,7 +4,7 @@
 
 This patch enables OpenMW to utilise Melchior Dahrk's 'OAAB Saplings' as groundcover in OpenMW versions 0.47+, improving engine performance as opposed to the static models. This is no longer possible with the original OAAB Saplings mod since OpenMW's handling of groundcover changed in OpenMW 0.47.  
   
-Alternatively, consider using Groundcoverizer by Benjamin Winger or Habasi by Alvazir. These tools can create groundcover for all the grass/kelp type flora statics in your whole mod loadout, reducing the likelihood of conflicts and giving more comprehensive performance improvements. They take a bit to get your head around, but the pay-off is worth it! However, the patches included with this are useful.  
+Alternatively, consider using [Groundcoverify](https://gitlab.com/bmwinger/groundcoverify) by Benjamin Winger or [Habasi](https://www.nexusmods.com/morrowind/mods/53002) by Alvazir. These tools can create groundcover for all the grass/kelp type flora statics in your whole mod loadout, reducing the likelihood of conflicts and giving more comprehensive performance improvements. They take a bit to get your head around, but the pay-off is worth it! However, the patches included with this are useful.  
   
 ## Requirements:  
 
