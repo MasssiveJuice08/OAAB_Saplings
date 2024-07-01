@@ -1,3 +1,5 @@
+![Mod-page banner-image of saplings in the Ascadian Isles](https://github.com/MasssiveJuice08/OAAB-Saplings-OpenMW-Groundcover-Patch/blob/main/OAAB-Saplings-OpenMW-Groundcover-Patch-Banner.png.jpg)
+
 ## Description:  
 
 This patch enables OpenMW to utilise Melchior Dahrk's 'OAAB Saplings' as groundcover in OpenMW versions 0.47+, improving engine performance as opposed to the static models. This is no longer possible with the original OAAB Saplings mod since OpenMW's handling of groundcover changed in OpenMW 0.47.  
