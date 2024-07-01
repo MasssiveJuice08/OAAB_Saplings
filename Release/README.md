@@ -28,7 +28,8 @@ Pick from the following folders
 - 04 - Optional - **Only use one:**  
 	- 04 SM Bitter Coast Tree Replacer patch - Optional - requires original mod. Load after 00 Core.   
 	- 04 Graht Morrowind Swamp Trees patch - Optional - requires original mod. Load after 00 Core.  
-- 05 Great Seawall of Vivec Patch - removes saplings from the walkway in cells 6 -13, 6 -14, 7-13. (credit to Sophie)  
+- 05 Great Seawall of Vivec Patch - removes saplings from the walkway in cells 6 -13, 6 -14, 7-13. (credit to Sophie)
+- 06 BCOM + Concept Art Plantations - Fixes floaters in Dren Plantation (credit to Sophie) 
   
 ### ENABLING GROUNDCOVER IN OPENMW - REQUIRED:  
 
