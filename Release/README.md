@@ -20,18 +20,18 @@ This mod is a complete replacer for OAAB Saplings and includes the sapling meshe
 Pick from the following folders (only `00 OSOGP - Core` is required)
 
 - `00 OSOGP - Core` (required)
-- `01 OSOGP - West Gash Patches` (optional - pick one)
+- `01 OSOGP - Tree Replacer Patches` (optional)
+   - `01 OSOGP - Melchior's Excellent Grazelands Acacia patch`
+   - `02 OSOGP - Graht Morrowind Swamp Trees patch`
+   - `02 OSOGP - SM Bitter Coast Tree Replacer patch` (only pick `Graht Morrowind Swamp Trees` OR `SM Bitter Coast Tree Replacer`)
+- `02 OSOGP - West Gash Patches` (optional - pick one)
    - `01 OSOGP - BCOM patch for OAAB_Saplings_WG`
    - `01 OSOGP - SWP + BCOM patch for OAAB_Saplings_WG`
-- `02 OSOGP - OAAB_Saplings_AC BCOM patch` (optional)
-- `03 OSOGP - Melchior's Excellent Grazelands Acacia patch` (optional)
-- `04 OSOGP - Bitter Coast Tree Replacer Patches` (optional - pick one)
-   - `04 OSOGP - Graht Morrowind Swamp Trees patch`
-   - `04 OSOGP - SM Bitter Coast Tree Replacer patch`
-- `05 OSOGP - Ascadian Isles Patches` (optional - pick one)
-   - `05 OSOGP - BCOM + Concept Art Plantations`
-   - `05 OSOGP - Great Seawall of Vivec`
-   - `05 OSOGP - Great Seawall of Vivec + BCOM + Concept Art Plantations Combined`
+- `03 OSOGP - OAAB_Saplings_AC BCOM patch` (optional)
+- `04 OSOGP - Ascadian Isles Patches` (optional - pick one)
+   - `01 OSOGP - BCOM + Concept Art Plantations`
+   - `01 OSOGP - Great Seawall of Vivec`
+   - `01 OSOGP - Great Seawall of Vivec + BCOM + Concept Art Plantations Combined`
   
 ### ENABLING GROUNDCOVER IN OPENMW - REQUIRED:  
 
@@ -88,7 +88,9 @@ OpenMW groundcover mods need to load meshes from a folder called 'Grass'. I just
 - Thanks to **Sophie** on the MMC Discord for creating the following patches:
    - `01 OSOGP - BCOM patch for OAAB_Saplings_WG`
    - `02 OSOGP - OAAB_Saplings_AC BCOM patch`
-   - `05 OSOGP - BCOM + Concept Art Plantations`
-   - `05 OSOGP - Great Seawall of Vivec`
+   - `04 OSOGP - Ascadian Isles Patches`
+      - `01 OSOGP - BCOM + Concept Art Plantations`
+      - `01 OSOGP - Great Seawall of Vivec`
+      - `01 OSOGP - Great Seawall of Vivec + BCOM + Concept Art Plantations Combined`
   
 Make sure to endorse the original mods!

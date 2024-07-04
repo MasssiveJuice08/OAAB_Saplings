@@ -88,7 +88,9 @@ OpenMW groundcover mods need to load meshes from a folder called 'Grass'. I just
 - Thanks to **Sophie** on the MMC Discord for creating the following patches:
    - `01 OSOGP - BCOM patch for OAAB_Saplings_WG`
    - `02 OSOGP - OAAB_Saplings_AC BCOM patch`
-   - `05 OSOGP - BCOM + Concept Art Plantations`
-   - `05 OSOGP - Great Seawall of Vivec`
+   - `04 OSOGP - Ascadian Isles Patches`
+      - `01 OSOGP - BCOM + Concept Art Plantations`
+      - `01 OSOGP - Great Seawall of Vivec`
+      - `01 OSOGP - Great Seawall of Vivec + BCOM + Concept Art Plantations Combined`
   
 Make sure to endorse the original mods!
