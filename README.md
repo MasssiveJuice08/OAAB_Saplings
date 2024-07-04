@@ -17,18 +17,21 @@ This mod is a complete replacer for OAAB Saplings and includes the sapling meshe
   
 ## Installation:  
 
-Pick from the following folders
+Pick from the following folders (only `00 OSOGP - Core` is required)
 
-- 00 Core - **Required**. Contains saplings meshes stored in a grass folder, and the six OAAB Sapling ESPs. (Do not enable OAAB_Saplings_WG.esp if using the patch below)  
-- 01 - Optional - **Only use one**:  
-	- 01 BCOM patch for OAAB_Saplings_WG - patch for 'Beautiful Cities of Morrowind', fixes floaters in cell Balmora -3,-2 (credit to Sophie)  
-	- 01 SWP + BCOM patch for OAAB_Saplings_WG - patch for 'The Stonewod Pass Reworked' and 'Beautiful Cities of Morrowind' (credit to Mrovkogon)  
-- 02 OAAB_Saplings_AC BCOM Patch (credit to Sophie on MMC for the fix!)  
-- 03 Melchior's Excellent Grazelands Acacia patch - Optional - requires original mod. Load after 00 Core.  
-- 04 - Optional - **Only use one:**  
-	- 04 SM Bitter Coast Tree Replacer patch - Optional - requires original mod. Load after 00 Core.   
-	- 04 Graht Morrowind Swamp Trees patch - Optional - requires original mod. Load after 00 Core.  
-- 05 Great Seawall of Vivec Patch - removes saplings from the walkway in cells 6 -13, 6 -14, 7-13. (credit to Sophie)  
+- `00 OSOGP - Core` (required)
+- `01 OSOGP - Tree Replacer Patches` (optional)
+   - `01 OSOGP - Melchior's Excellent Grazelands Acacia patch`
+   - `02 OSOGP - Graht Morrowind Swamp Trees patch`
+   - `02 OSOGP - SM Bitter Coast Tree Replacer patch` (only pick `Graht Morrowind Swamp Trees` OR `SM Bitter Coast Tree Replacer`)
+- `02 OSOGP - West Gash Patches` (optional - pick one)
+   - `01 OSOGP - BCOM patch for OAAB_Saplings_WG`
+   - `01 OSOGP - SWP + BCOM patch for OAAB_Saplings_WG`
+- `03 OSOGP - OAAB_Saplings_AC BCOM patch` (optional)
+- `04 OSOGP - Ascadian Isles Patches` (optional - pick one)
+   - `01 OSOGP - BCOM + Concept Art Plantations`
+   - `01 OSOGP - Great Seawall of Vivec`
+   - `01 OSOGP - Great Seawall of Vivec + BCOM + Concept Art Plantations Combined`
   
 ### ENABLING GROUNDCOVER IN OPENMW - REQUIRED:  
 
@@ -82,6 +85,10 @@ OpenMW groundcover mods need to load meshes from a folder called 'Grass'. I just
 - **Greatness7** for [Tes3conv](https://github.com/Greatness7/tes3conv)  
 - **Hemaris** for inspiring this idea with their ['Turn Normal Grass and Kelp into Groundcover'](https://www.nexusmods.com/morrowind/mods/52010) and ['Stirk Performance Improver'](https://www.nexusmods.com/morrowind/mods/52058) mods.  
 - The team at [OAAB_Data](https://www.nexusmods.com/morrowind/mods/49042)  
-- Thanks to **Sophie** on the MMC Discord for creating the OAAB_Saplings_AC & WG BCOM patches, and the [Great Seawall of Vivec](https://www.nexusmods.com/morrowind/mods/53544) patch  
+- Thanks to **Sophie** on the MMC Discord for creating the following patches:
+   - `01 OSOGP - BCOM patch for OAAB_Saplings_WG`
+   - `02 OSOGP - OAAB_Saplings_AC BCOM patch`
+   - `05 OSOGP - BCOM + Concept Art Plantations`
+   - `05 OSOGP - Great Seawall of Vivec`
   
 Make sure to endorse the original mods!
