@@ -14,6 +14,27 @@ This mod is a complete replacer for OAAB Saplings and includes the sapling meshe
 - If using the '01 patch for OAAB Saplings West Gash for BCOM and SWP', 'Beautiful Cities of Morrowind' and 'Stonewood Pass Reworked' by RandomPal are required.  
 - The original 'OAAB Saplings West Gash for BCOM and SWP' patch is not required.  
 - 'Melchior's Excellent Grazelands Acacia patch', 'SM Bitter Coast Tree Replacer patch' and 'Graht Morrowind Swamp Trees patch'
+
+## Patches
+
+Packaged with this mod are patches (primarily for BCOM) for the following mods:
+
+**OAAB_Saplings_AC.esp**
+- [BCOM](https://www.nexusmods.com/morrowind/mods/54076)
+
+**OAAB_Saplings_AI.esp**  
+- [BCOM + BCOM Patch for Concept Arts Plantations](https://www.nexusmods.com/morrowind/mods/49231)
+- [The Great Seawall of Vivec](https://www.nexusmods.com/morrowind/mods/53544)
+- [The Road to the Lighthouse](https://www.nexusmods.com/morrowind/mods/54076)
+
+**OAAB_Saplings_WG.esp**
+- [BCOM](https://www.nexusmods.com/morrowind/mods/54076)
+- [The Stonewood Pass Reworked](https://www.nexusmods.com/morrowind/mods/49464)
+
+**Tree Replacers**
+- [Graht Morrowind Swamp Trees](https://www.nexusmods.com/morrowind/mods/49771) (not compatible with SM Bitter Coast Tree Replacer patch)
+- [Melchior's Excellent Grazelands Acacia](https://www.nexusmods.com/morrowind/mods/51058)
+- [SM Bitter Coast Tree Replacer](https://www.nexusmods.com/morrowind/mods/49883) (not compatible with Graht Morrowind Swamp Trees patch)
   
 ## Installation:  
 
@@ -32,6 +53,10 @@ Pick from the following folders (only `00 OSOGP - Core` is required)
    - `01 OSOGP - BCOM + Concept Art Plantations`
    - `01 OSOGP - Great Seawall of Vivec`
    - `01 OSOGP - Great Seawall of Vivec + BCOM + Concept Art Plantations Combined`
+   - `01 OSOGP - Path to the Lighthouse`
+   - `01 OSOGP - Path to the Lighthouse + BCOM + Concept Art Plantations Combined`
+   - `01 OSOGP - Path to the Lighthouse + Great Seawall of Vivec`
+   - `01 OSOGP - Path to the Lighthouse + BCOM + Concept Art Plantations Combined + Great Seawall of Vivec`
   
 ### ENABLING GROUNDCOVER IN OPENMW - REQUIRED:  
 
