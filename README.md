@@ -28,7 +28,7 @@ Packaged with this mod are patches (primarily for BCOM) for the following mods:
 - [The Road to the Lighthouse](https://www.nexusmods.com/morrowind/mods/54076)
 
 **OAAB_Saplings_WG.esp**
-- [BCOM](https://www.nexusmods.com/morrowind/mods/54076)
+- [BCOM](https://www.nexusmods.com/morrowind/mods/49231)
 - [The Stonewood Pass Reworked](https://www.nexusmods.com/morrowind/mods/49464)
 
 **Tree Replacers**
