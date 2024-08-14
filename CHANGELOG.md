@@ -1,16 +1,20 @@
+Version 1.1.2
+- Updated `03 OSOGP - OAAB_Saplings_AC BCOM patch` to fix floaters in Tel Aruhn (credit: Sophie).
+- Added patch for 'The Road to Vivec Lighthouse' by RandomPal, deleting saplings from the road in cells 2,-14 and 3,-15. Compatible with other AI patches.
+
 Version 1.1.0
 - Added `05 OSOGP - Great Seawall of Vivec + BCOM + Concept Art Plantations Combined`.
 - Restructured folders.
 - Added FOMOD installer.
 
 Version 1.0.9
-- Added `06 BCOM + Concept Art Plantations` patch by Sophie
+- Added `06 BCOM + Concept Art Plantations` patch (credit: Sophie)
 
 Version 1.0.8
-- Added patch for The Great Seawall of Vivec, created by Sophie on MMC Discord - removes saplings from the walkway in cells 6 -13, 6 -14, 7-13.
+- Added patch for The Great Seawall of Vivec, created by Sophie on MMC Discord - removes saplings from the walkway in cells 6,-13; 6,-14; 7,-13.
 
 Version 1.0.7
-- Updated '01 BCOM patch for OAAB_Saplings_WG', fixing floaters and clipping meshes in cell Balmora -2,-2 (credit to Sophie)
+- Updated '01 BCOM patch for OAAB_Saplings_WG', fixing floaters and clipping meshes in cell Balmora -2,-2 (credit: Sophie)
 
 Version 1.0.6
 - Added a regular BCOM (minus Stonewood Pass) patch for OAAB_Saplings_WG, created by Sophie on MMC. Edits saplings in cell: Balmora -3,-2.
