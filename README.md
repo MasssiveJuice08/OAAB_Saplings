@@ -20,7 +20,7 @@ This mod is a complete replacer for OAAB Saplings and includes the sapling meshe
 Packaged with this mod are patches (primarily for BCOM) for the following mods:
 
 **OAAB_Saplings_AC.esp**
-- [BCOM](https://www.nexusmods.com/morrowind/mods/54076)
+- [BCOM](https://www.nexusmods.com/morrowind/mods/49231)
 
 **OAAB_Saplings_AI.esp**  
 - [BCOM + BCOM Patch for Concept Arts Plantations](https://www.nexusmods.com/morrowind/mods/49231)
