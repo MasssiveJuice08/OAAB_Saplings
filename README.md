@@ -1,4 +1,4 @@
-![Mod-page banner-image of saplings in the Ascadian Isles](https://github.com/MasssiveJuice08/OAAB-Saplings-OpenMW-Groundcover-Patch/blob/main/OAAB-Saplings-OpenMW-Groundcover-Patch-Banner.png.jpg)
+![Mod-page banner-image of saplings in the Ascadian Isles](https://github.com/MasssiveJuice08/OAAB_Saplings/blob/main/SaplingsTransparent.png)
 
 ## Description:  
 
