@@ -1,0 +1,4323 @@
+[
+    {
+      "type": "Header",
+      "flags": "",
+      "version": 1.3,
+      "file_type": "Esm",
+      "author": "",
+      "description": "",
+      "num_objects": 383,
+      "masters": [
+        [
+          "Morrowind.esm",
+          79837557
+        ],
+        [
+          "Tribunal.esm",
+          4565686
+        ],
+        [
+          "Bloodmoon.esm",
+          9631798
+        ],
+        [
+          "OAAB_Data.esm",
+          1314140
+        ]
+      ]
+    },
+    {
+      "type": "Cell",
+      "flags": "",
+      "name": "Ald Redaynia",
+      "data": {
+        "flags": "HAS_WATER",
+        "grid": [
+          -4,
+          21
+        ]
+      },
+      "region": "Sheogorad",
+      "references": [
+        {
+          "mast_index": 0,
+          "refr_index": 4260,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            -30083.51,
+            174766.61,
+            249.10045
+          ],
+          "rotation": [
+            -0.13962634,
+            0.13962634,
+            4.125767
+          ],
+          "scale": 0.92
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 4261,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            -29047.082,
+            173682.19,
+            135.219
+          ],
+          "rotation": [
+            -0.13962634,
+            0.13962634,
+            2.319258
+          ],
+          "scale": 0.91
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 4263,
+          "id": "AB_Flora_AcSapling01",
+          "temporary": true,
+          "translation": [
+            -27957.672,
+            174643.1,
+            517.86816
+          ],
+          "rotation": [
+            -0.13962634,
+            -0.06241881,
+            2.2759218
+          ],
+          "scale": 0.93000007
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 4264,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            -27860.418,
+            174704.84,
+            564.68555
+          ],
+          "rotation": [
+            -0.13962634,
+            0,
+            4.5648828
+          ],
+          "scale": 0.96000004
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 4265,
+          "id": "AB_Flora_AcSapling01",
+          "temporary": true,
+          "translation": [
+            -24439.086,
+            179233.89,
+            861.15186
+          ],
+          "rotation": [
+            -0.13962634,
+            -0.06241881,
+            4.883002
+          ],
+          "scale": 0.59000003
+        }
+      ]
+    },
+    {
+      "type": "Cell",
+      "flags": "",
+      "name": "",
+      "data": {
+        "flags": "HAS_WATER",
+        "grid": [
+          -1,
+          20
+        ]
+      },
+      "region": "Sheogorad",
+      "references": [
+        {
+          "mast_index": 0,
+          "refr_index": 3643,
+          "id": "AB_Flora_AcSapling01",
+          "temporary": true,
+          "translation": [
+            -465.05353,
+            166906.05,
+            357.10864
+          ],
+          "rotation": [
+            0.031209406,
+            0.13962634,
+            4.397482
+          ],
+          "scale": 0.77000004
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 3644,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            -866.12775,
+            167377.77,
+            320.46802
+          ],
+          "rotation": [
+            0.031209406,
+            0.13962634,
+            0.51255697
+          ],
+          "scale": 0.53000003
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 3645,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            -618.78424,
+            167063.36,
+            327.8979
+          ],
+          "rotation": [
+            -0.062177498,
+            0.12388338,
+            5.2695765
+          ],
+          "scale": 0.53000003
+        }
+      ]
+    },
+    {
+      "type": "Cell",
+      "flags": "",
+      "name": "",
+      "data": {
+        "flags": "HAS_WATER",
+        "grid": [
+          0,
+          20
+        ]
+      },
+      "region": "Sheogorad",
+      "references": [
+        {
+          "mast_index": 0,
+          "refr_index": 3472,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            -718.49725,
+            167263.56,
+            342.97266
+          ],
+          "rotation": [
+            6.1897984,
+            0.031209406,
+            3.9332314
+          ],
+          "scale": 0.76000005
+        }
+      ]
+    },
+    {
+      "type": "Cell",
+      "flags": "",
+      "name": "",
+      "data": {
+        "flags": "HAS_WATER",
+        "grid": [
+          1,
+          19
+        ]
+      },
+      "region": "Sheogorad",
+      "references": [
+        {
+          "mast_index": 0,
+          "refr_index": 3237,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            15953.371,
+            157662.14,
+            188.21143
+          ],
+          "rotation": [
+            0.13962634,
+            0.13962634,
+            4.0296206
+          ],
+          "scale": 0.5
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 3238,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            15576.999,
+            157624.53,
+            130.17648
+          ],
+          "rotation": [
+            -0.13962634,
+            0.031209406,
+            4.8024654
+          ],
+          "scale": 0.97
+        }
+      ]
+    },
+    {
+      "type": "Cell",
+      "flags": "",
+      "name": "",
+      "data": {
+        "flags": "HAS_WATER",
+        "grid": [
+          1,
+          22
+        ]
+      },
+      "region": "Sheogorad",
+      "references": []
+    },
+    {
+      "type": "Cell",
+      "flags": "",
+      "name": "",
+      "data": {
+        "flags": "HAS_WATER",
+        "grid": [
+          2,
+          19
+        ]
+      },
+      "region": "Sheogorad",
+      "references": [
+        {
+          "mast_index": 0,
+          "refr_index": 2851,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            17450.352,
+            157251.38,
+            713.23926
+          ],
+          "rotation": [
+            0.13962634,
+            0.13962634,
+            3.7250025
+          ],
+          "scale": 0.65000004
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2852,
+          "id": "AB_Flora_AcSapling01",
+          "temporary": true,
+          "translation": [
+            17725.12,
+            157461.7,
+            715.1682
+          ],
+          "rotation": [
+            0.0933869,
+            0.13962634,
+            2.8914504
+          ],
+          "scale": 0.70000005
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2853,
+          "id": "AB_Flora_AcSapling01",
+          "temporary": true,
+          "translation": [
+            20504.201,
+            156468.06,
+            1117.5173
+          ],
+          "rotation": [
+            0.0933869,
+            0.13962634,
+            4.3240404
+          ],
+          "scale": 0.72
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2855,
+          "id": "AB_Flora_AcSapling03",
+          "temporary": true,
+          "translation": [
+            22204.797,
+            162189.72,
+            137.85742
+          ],
+          "rotation": [
+            -0.06241881,
+            0,
+            5.9052396
+          ],
+          "scale": 0.55
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2856,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            22583.25,
+            160059.27,
+            768.1758
+          ],
+          "rotation": [
+            0.13962634,
+            0.13962634,
+            2.5834944
+          ],
+          "scale": 0.62
+        }
+      ]
+    },
+    {
+      "type": "Cell",
+      "flags": "",
+      "name": "",
+      "data": {
+        "flags": "HAS_WATER",
+        "grid": [
+          2,
+          21
+        ]
+      },
+      "region": "Sheogorad",
+      "references": [
+        {
+          "mast_index": 0,
+          "refr_index": 2844,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            19811.367,
+            178946.14,
+            465.94775
+          ],
+          "rotation": [
+            0.062177498,
+            -0.13962634,
+            2.1294222
+          ],
+          "scale": 0.94000006
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2847,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            19889.742,
+            177766.4,
+            732.0166
+          ],
+          "rotation": [
+            0.13962634,
+            0.124354996,
+            1.1815848
+          ],
+          "scale": 0.8
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2848,
+          "id": "AB_Flora_AcSapling03",
+          "temporary": true,
+          "translation": [
+            24572.76,
+            177490.39,
+            1130.185
+          ],
+          "rotation": [
+            0.06241881,
+            0.13962634,
+            1.176024
+          ],
+          "scale": 0.98
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2849,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            24415.664,
+            180596.1,
+            937.0176
+          ],
+          "rotation": [
+            0.13962634,
+            0.13962634,
+            2.6220367
+          ],
+          "scale": 0.68
+        }
+      ]
+    },
+    {
+      "type": "Cell",
+      "flags": "",
+      "name": "",
+      "data": {
+        "flags": "HAS_WATER",
+        "grid": [
+          2,
+          22
+        ]
+      },
+      "region": "Sheogorad",
+      "references": [
+        {
+          "mast_index": 0,
+          "refr_index": 2836,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            20403.752,
+            181093.58,
+            258.9442
+          ],
+          "rotation": [
+            0.124354996,
+            0.13962634,
+            1.9781287
+          ],
+          "scale": 0.92
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2837,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            20108.844,
+            179504.4,
+            353.80273
+          ],
+          "rotation": [
+            0.031209406,
+            0.031209406,
+            3.8279743
+          ],
+          "scale": 0.56
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2839,
+          "id": "AB_Flora_AcSapling03",
+          "temporary": true,
+          "translation": [
+            20463.154,
+            182385.47,
+            288.15112
+          ],
+          "rotation": [
+            0.13962634,
+            0.13962634,
+            5.0590315
+          ],
+          "scale": 0.95000005
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2841,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            23104.975,
+            181926.48,
+            926.78564
+          ],
+          "rotation": [
+            0.13962634,
+            0.13962634,
+            4.2045846
+          ],
+          "scale": 0.69000006
+        }
+      ]
+    },
+    {
+      "type": "Cell",
+      "flags": "",
+      "name": "",
+      "data": {
+        "flags": "HAS_WATER",
+        "grid": [
+          3,
+          20
+        ]
+      },
+      "region": "Sheogorad",
+      "references": []
+    },
+    {
+      "type": "Cell",
+      "flags": "",
+      "name": "",
+      "data": {
+        "flags": "HAS_WATER",
+        "grid": [
+          3,
+          21
+        ]
+      },
+      "region": "Sheogorad",
+      "references": [
+        {
+          "mast_index": 0,
+          "refr_index": 2596,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            25923.98,
+            175158.14,
+            1216.561
+          ],
+          "rotation": [
+            -0.13962634,
+            0.13962634,
+            0.9909819
+          ],
+          "scale": 0.85
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2597,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            26266.781,
+            176032.73,
+            1807.3223
+          ],
+          "rotation": [
+            6.143559,
+            6.143559,
+            0.9221587
+          ],
+          "scale": 0.59000003
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2598,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            28476.525,
+            174552.75,
+            1244.0483
+          ],
+          "rotation": [
+            0.13962634,
+            0.13962634,
+            1.2795708
+          ],
+          "scale": 0.8
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2599,
+          "id": "AB_Flora_AcSapling03",
+          "temporary": true,
+          "translation": [
+            27776.719,
+            176036.5,
+            1292.0469
+          ],
+          "rotation": [
+            -0.13962634,
+            -0.13962634,
+            2.010535
+          ],
+          "scale": 0.62
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2600,
+          "id": "AB_Flora_AcSapling03",
+          "temporary": true,
+          "translation": [
+            29441.729,
+            174807.6,
+            1302.5485
+          ],
+          "rotation": [
+            0.13962634,
+            -0.13962634,
+            5.10371
+          ],
+          "scale": 0.59000003
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2601,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            30627.254,
+            174207.52,
+            1066.7229
+          ],
+          "rotation": [
+            0.13962634,
+            -0.13962634,
+            4.097771
+          ],
+          "scale": 0.64000005
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2602,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            30651.426,
+            175626.22,
+            1364.8989
+          ],
+          "rotation": [
+            -0.13962634,
+            0.124354996,
+            4.57773
+          ],
+          "scale": 0.52000004
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2604,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            31730.846,
+            179553.6,
+            1049.389
+          ],
+          "rotation": [
+            0.12388338,
+            -0.13962634,
+            0.7457292
+          ],
+          "scale": 0.86
+        }
+      ]
+    },
+    {
+      "type": "Cell",
+      "flags": "",
+      "name": "",
+      "data": {
+        "flags": "HAS_WATER",
+        "grid": [
+          3,
+          22
+        ]
+      },
+      "region": "Sheogorad",
+      "references": [
+        {
+          "mast_index": 0,
+          "refr_index": 2587,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            23985.01,
+            180126.92,
+            911.90063
+          ],
+          "rotation": [
+            0.13962634,
+            0.13962634,
+            4.535736
+          ],
+          "scale": 0.55
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2588,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            24409.033,
+            180866.97,
+            839.3954
+          ],
+          "rotation": [
+            0.13962634,
+            0.13962634,
+            2.6277893
+          ],
+          "scale": 0.72
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2589,
+          "id": "AB_Flora_AcSapling01",
+          "temporary": true,
+          "translation": [
+            25400.723,
+            183055.44,
+            748.99194
+          ],
+          "rotation": [
+            0.13962634,
+            0.13962634,
+            2.1158075
+          ],
+          "scale": 0.99000007
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2590,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            25298.752,
+            185177.84,
+            851.74646
+          ],
+          "rotation": [
+            -0.124354996,
+            0.13962634,
+            1.0216624
+          ],
+          "scale": 0.91
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2591,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            28685.969,
+            187960.11,
+            121
+          ],
+          "rotation": [
+            -0.031209406,
+            0.031209406,
+            0.56548095
+          ],
+          "scale": 0.52000004
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2592,
+          "id": "AB_Flora_AcSapling03",
+          "temporary": true,
+          "translation": [
+            29404.273,
+            188178.14,
+            115.23291
+          ],
+          "rotation": [
+            0,
+            -0.06241881,
+            4.421451
+          ],
+          "scale": 0.85
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2593,
+          "id": "AB_Flora_AcSapling03",
+          "temporary": true,
+          "translation": [
+            30491.37,
+            188039.53,
+            484.2815
+          ],
+          "rotation": [
+            -0.06241881,
+            0.13962634,
+            2.4212708
+          ],
+          "scale": 0.84000003
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2594,
+          "id": "AB_Flora_AcSapling01",
+          "temporary": true,
+          "translation": [
+            31235.531,
+            179554.7,
+            1372.0137
+          ],
+          "rotation": [
+            -0.0933869,
+            -0.13962634,
+            4.4887567
+          ],
+          "scale": 0.64000005
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2595,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            32477.29,
+            184765.42,
+            674.17773
+          ],
+          "rotation": [
+            0.031209406,
+            -0.13962634,
+            4.7251887
+          ],
+          "scale": 0.77000004
+        }
+      ]
+    },
+    {
+      "type": "Cell",
+      "flags": "",
+      "name": "",
+      "data": {
+        "flags": "HAS_WATER",
+        "grid": [
+          3,
+          23
+        ]
+      },
+      "region": "Sheogorad",
+      "references": [
+        {
+          "mast_index": 0,
+          "refr_index": 2581,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            26422.902,
+            195533.86,
+            156.15404
+          ],
+          "rotation": [
+            -0.13962634,
+            0.12388338,
+            1.6751581
+          ],
+          "scale": 0.73
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2582,
+          "id": "AB_Flora_AcSapling01",
+          "temporary": true,
+          "translation": [
+            27367.932,
+            194234.19,
+            140.48718
+          ],
+          "rotation": [
+            0.031209406,
+            0.13962634,
+            3.6870356
+          ],
+          "scale": 0.89000005
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2583,
+          "id": "AB_Flora_AcSapling01",
+          "temporary": true,
+          "translation": [
+            27456.04,
+            194328.67,
+            146.29297
+          ],
+          "rotation": [
+            -0.031209406,
+            0.13962634,
+            5.6421537
+          ],
+          "scale": 0.74
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2584,
+          "id": "AB_Flora_AcSapling01",
+          "temporary": true,
+          "translation": [
+            28487.332,
+            194444.02,
+            583.33887
+          ],
+          "rotation": [
+            -0.13962634,
+            0.13962634,
+            4.8784
+          ],
+          "scale": 0.64000005
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2585,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            29834.219,
+            195207.05,
+            978.6738
+          ],
+          "rotation": [
+            0.13962634,
+            0.091279924,
+            2.7342126
+          ],
+          "scale": 0.6
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2586,
+          "id": "AB_Flora_AcSapling03",
+          "temporary": true,
+          "translation": [
+            30021.684,
+            195483.75,
+            904.8562
+          ],
+          "rotation": [
+            0.13962634,
+            -0.09267397,
+            3.0178158
+          ],
+          "scale": 0.67
+        }
+      ]
+    },
+    {
+      "type": "Cell",
+      "flags": "",
+      "name": "",
+      "data": {
+        "flags": "HAS_WATER",
+        "grid": [
+          3,
+          24
+        ]
+      },
+      "region": "Sheogorad",
+      "references": [
+        {
+          "mast_index": 0,
+          "refr_index": 2580,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            29030.178,
+            197729.94,
+            575.34045
+          ],
+          "rotation": [
+            -0.13962634,
+            -0.06241881,
+            2.7033403
+          ],
+          "scale": 0.8
+        }
+      ]
+    },
+    {
+      "type": "Cell",
+      "flags": "",
+      "name": "",
+      "data": {
+        "flags": "HAS_WATER",
+        "grid": [
+          4,
+          18
+        ]
+      },
+      "region": "Sheogorad",
+      "references": [
+        {
+          "mast_index": 0,
+          "refr_index": 2374,
+          "id": "AB_Flora_AcSapling01",
+          "temporary": true,
+          "translation": [
+            40420.785,
+            155624.58,
+            601
+          ],
+          "rotation": [
+            0.031209406,
+            -0.031209406,
+            0.1528275
+          ],
+          "scale": 0.72
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2375,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            41350.28,
+            155265.19,
+            207.59961
+          ],
+          "rotation": [
+            0.13962634,
+            -0.13962634,
+            5.2895193
+          ],
+          "scale": 0.65000004
+        }
+      ]
+    },
+    {
+      "type": "Cell",
+      "flags": "",
+      "name": "",
+      "data": {
+        "flags": "HAS_WATER",
+        "grid": [
+          4,
+          19
+        ]
+      },
+      "region": "Sheogorad",
+      "references": [
+        {
+          "mast_index": 0,
+          "refr_index": 2359,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            35566.625,
+            163767.17,
+            1289.1729
+          ],
+          "rotation": [
+            -0.13962634,
+            0.124354996,
+            2.0860858
+          ],
+          "scale": 0.88000005
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2360,
+          "id": "AB_Flora_AcSapling01",
+          "temporary": true,
+          "translation": [
+            36086.07,
+            163636.55,
+            1241.2305
+          ],
+          "rotation": [
+            -0.13962634,
+            -0.13962634,
+            0.43470508
+          ],
+          "scale": 0.89000005
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2361,
+          "id": "AB_Flora_AcSapling01",
+          "temporary": true,
+          "translation": [
+            36791.293,
+            162464.11,
+            873.2727
+          ],
+          "rotation": [
+            -0.13962634,
+            0.13962634,
+            2.4713185
+          ],
+          "scale": 0.54
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2362,
+          "id": "AB_Flora_AcSapling03",
+          "temporary": true,
+          "translation": [
+            36734.367,
+            162730.58,
+            995.1343
+          ],
+          "rotation": [
+            -0.13962634,
+            0.13962634,
+            2.04716
+          ],
+          "scale": 0.68
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2363,
+          "id": "AB_Flora_AcSapling03",
+          "temporary": true,
+          "translation": [
+            37404.88,
+            162639.33,
+            957.6123
+          ],
+          "rotation": [
+            -0.13962634,
+            -0.13962634,
+            4.5203958
+          ],
+          "scale": 0.70000005
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2364,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            37984.63,
+            156567.88,
+            173.8584
+          ],
+          "rotation": [
+            0.124354996,
+            -0.13962634,
+            3.9361231
+          ],
+          "scale": 0.97
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2365,
+          "id": "AB_Flora_AcSapling03",
+          "temporary": true,
+          "translation": [
+            37786.49,
+            156393.6,
+            260.66846
+          ],
+          "rotation": [
+            0.13962634,
+            6.143559,
+            1.3047707
+          ],
+          "scale": 0.89000005
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2366,
+          "id": "AB_Flora_AcSapling01",
+          "temporary": true,
+          "translation": [
+            38381.105,
+            155786.62,
+            354.9348
+          ],
+          "rotation": [
+            0.13962634,
+            0.06241881,
+            1.2600119
+          ],
+          "scale": 0.86
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2367,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            38273.34,
+            156065.03,
+            238.76147
+          ],
+          "rotation": [
+            0.13962634,
+            0.06241881,
+            0.29510856
+          ],
+          "scale": 0.68
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2368,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            39177.055,
+            156017.88,
+            423.1797
+          ],
+          "rotation": [
+            0.13962634,
+            0.062177498,
+            2.557991
+          ],
+          "scale": 0.74
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2369,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            39126.258,
+            156450.16,
+            301.90823
+          ],
+          "rotation": [
+            -0.124354996,
+            0.13962634,
+            1.3620248
+          ],
+          "scale": 0.73
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2370,
+          "id": "AB_Flora_AcSapling01",
+          "temporary": true,
+          "translation": [
+            40853.5,
+            155425.02,
+            496.7793
+          ],
+          "rotation": [
+            0.124354996,
+            -0.13962634,
+            2.3570335
+          ],
+          "scale": 0.69000006
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2371,
+          "id": "AB_Flora_AcSapling01",
+          "temporary": true,
+          "translation": [
+            40886.67,
+            155656.88,
+            482.9756
+          ],
+          "rotation": [
+            -0.13962634,
+            -0.13962634,
+            6.1781044
+          ],
+          "scale": 0.57000005
+        }
+      ]
+    },
+    {
+      "type": "Cell",
+      "flags": "",
+      "name": "",
+      "data": {
+        "flags": "HAS_WATER",
+        "grid": [
+          4,
+          20
+        ]
+      },
+      "region": "Sheogorad",
+      "references": [
+        {
+          "mast_index": 0,
+          "refr_index": 2346,
+          "id": "AB_Flora_AcSapling03",
+          "temporary": true,
+          "translation": [
+            35646.562,
+            163835.7,
+            1312.0146
+          ],
+          "rotation": [
+            -0.13962634,
+            0.124354996,
+            2.337283
+          ],
+          "scale": 0.90000004
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2347,
+          "id": "AB_Flora_AcSapling03",
+          "temporary": true,
+          "translation": [
+            35975.633,
+            164421.23,
+            1392.0459
+          ],
+          "rotation": [
+            0,
+            -0.124354996,
+            3.0350738
+          ],
+          "scale": 0.55
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2348,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            35684.57,
+            164636.88,
+            1373.481
+          ],
+          "rotation": [
+            0.031209406,
+            0.0933869,
+            1.094337
+          ],
+          "scale": 0.54
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2349,
+          "id": "AB_Flora_AcSapling01",
+          "temporary": true,
+          "translation": [
+            36149.49,
+            165323.72,
+            1309.657
+          ],
+          "rotation": [
+            0.09267397,
+            -0.13962634,
+            0.54266226
+          ],
+          "scale": 0.53000003
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2350,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            36355.55,
+            165587.94,
+            1267.0881
+          ],
+          "rotation": [
+            0.06241881,
+            -0.13962634,
+            0.5119817
+          ],
+          "scale": 0.53000003
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2351,
+          "id": "AB_Flora_AcSapling03",
+          "temporary": true,
+          "translation": [
+            35895.047,
+            164861.86,
+            1365.8271
+          ],
+          "rotation": [
+            0.0933869,
+            -0.031209406,
+            0.6931887
+          ],
+          "scale": 0.71000004
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2352,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            36463.91,
+            166824.58,
+            1840.4392
+          ],
+          "rotation": [
+            -0.13962634,
+            -0.0933869,
+            3.6216476
+          ],
+          "scale": 0.98
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2353,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            36044.793,
+            163988.61,
+            1355.8894
+          ],
+          "rotation": [
+            -0.0933869,
+            -0.13962634,
+            5.50179
+          ],
+          "scale": 0.94000006
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2354,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            36278.477,
+            165652.5,
+            1279.3457
+          ],
+          "rotation": [
+            0,
+            6.143559,
+            4.605045
+          ],
+          "scale": 0.98
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2356,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            36154.387,
+            163686.58,
+            1244.1864
+          ],
+          "rotation": [
+            -0.13962634,
+            -0.13962634,
+            0.33173347
+          ],
+          "scale": 0.53000003
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2357,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            37911.14,
+            163982.78,
+            1202.1133
+          ],
+          "rotation": [
+            -0.13962634,
+            0.13962634,
+            6.093541
+          ],
+          "scale": 0.62
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2358,
+          "id": "AB_Flora_AcSapling01",
+          "temporary": true,
+          "translation": [
+            37561.523,
+            164932.53,
+            1330.1328
+          ],
+          "rotation": [
+            -0.13962634,
+            -0.031209406,
+            4.4080286
+          ],
+          "scale": 0.73
+        }
+      ]
+    },
+    {
+      "type": "Cell",
+      "flags": "",
+      "name": "",
+      "data": {
+        "flags": "HAS_WATER",
+        "grid": [
+          4,
+          21
+        ]
+      },
+      "region": "Sheogorad",
+      "references": [
+        {
+          "mast_index": 0,
+          "refr_index": 2291,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            32017.885,
+            179021.39,
+            838.56836
+          ],
+          "rotation": [
+            6.143559,
+            6.143559,
+            0.9507023
+          ],
+          "scale": 0.64000005
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2292,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            33664.42,
+            180486.95,
+            753.4346
+          ],
+          "rotation": [
+            -0.031209406,
+            -0.031209406,
+            0.16088115
+          ],
+          "scale": 0.5
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2293,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            33504.65,
+            172429.53,
+            1416.5137
+          ],
+          "rotation": [
+            -0.031209406,
+            -0.13962634,
+            0.6316359
+          ],
+          "scale": 0.70000005
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2294,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            33191.406,
+            172092.14,
+            1668.668
+          ],
+          "rotation": [
+            -0.031209406,
+            -0.13962634,
+            0.3604965
+          ],
+          "scale": 0.75000006
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2295,
+          "id": "AB_Flora_AcSapling03",
+          "temporary": true,
+          "translation": [
+            33521.17,
+            175837.73,
+            878.67535
+          ],
+          "rotation": [
+            0.13962634,
+            0.13962634,
+            0.31524268
+          ],
+          "scale": 0.96000004
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2296,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            33863.79,
+            178068.56,
+            937
+          ],
+          "rotation": [
+            0.031209406,
+            -0.031209406,
+            1.1177309
+          ],
+          "scale": 0.72
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2297,
+          "id": "AB_Flora_AcSapling03",
+          "temporary": true,
+          "translation": [
+            34212.613,
+            180516.56,
+            599.83154
+          ],
+          "rotation": [
+            -0.030968092,
+            -0.13962634,
+            4.4431195
+          ],
+          "scale": 0.74
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2299,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            33980.574,
+            174354.52,
+            658.1572
+          ],
+          "rotation": [
+            -0.0933869,
+            0.031209406,
+            4.2851143
+          ],
+          "scale": 0.71000004
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2300,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            33976.18,
+            174835.81,
+            814.4175
+          ],
+          "rotation": [
+            -0.13962634,
+            0.06241881,
+            2.2333524
+          ],
+          "scale": 0.91
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2302,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            34726.562,
+            177555.73,
+            958.5625
+          ],
+          "rotation": [
+            0.13962634,
+            6.143559,
+            0.3788933
+          ],
+          "scale": 0.55
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2303,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            33384.996,
+            172397.02,
+            1503.6287
+          ],
+          "rotation": [
+            0,
+            -0.13962634,
+            1.1223329
+          ]
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2304,
+          "id": "AB_Flora_AcSapling01",
+          "temporary": true,
+          "translation": [
+            34358.35,
+            174608.14,
+            761.24365
+          ],
+          "rotation": [
+            -0.13962634,
+            0.13962634,
+            1.487048
+          ],
+          "scale": 0.86
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2305,
+          "id": "AB_Flora_AcSapling03",
+          "temporary": true,
+          "translation": [
+            33605.64,
+            176091.28,
+            865.6776
+          ],
+          "rotation": [
+            0.13962634,
+            0.13962634,
+            3.4523292
+          ],
+          "scale": 0.92
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2306,
+          "id": "AB_Flora_AcSapling01",
+          "temporary": true,
+          "translation": [
+            34681.85,
+            176470.66,
+            971.938
+          ],
+          "rotation": [
+            -0.13962634,
+            -0.13962634,
+            4.2889495
+          ],
+          "scale": 0.67
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2307,
+          "id": "AB_Flora_AcSapling01",
+          "temporary": true,
+          "translation": [
+            33619.58,
+            177630.64,
+            795.2254
+          ],
+          "rotation": [
+            0.031209406,
+            0.13962634,
+            0.7137064
+          ],
+          "scale": 0.90000004
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2308,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            35070.535,
+            177957.89,
+            420.8767
+          ],
+          "rotation": [
+            0.13962634,
+            -0.13962634,
+            4.094895
+          ],
+          "scale": 0.77000004
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2309,
+          "id": "AB_Flora_AcSapling01",
+          "temporary": true,
+          "translation": [
+            34034.367,
+            178572.56,
+            818.9717
+          ],
+          "rotation": [
+            0.13962634,
+            -0.13962634,
+            1.5953888
+          ],
+          "scale": 0.56
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2310,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            33875.67,
+            180142.47,
+            700.3496
+          ],
+          "rotation": [
+            -0.0933869,
+            -0.13962634,
+            5.107545
+          ],
+          "scale": 0.98
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2312,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            35013.18,
+            174827.02,
+            937.38916
+          ],
+          "rotation": [
+            -0.13962634,
+            0.031209406,
+            3.1276906
+          ],
+          "scale": 0.74
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2313,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            34291.418,
+            174488.28,
+            717.49756
+          ],
+          "rotation": [
+            -0.13962634,
+            0.13962634,
+            5.6943107
+          ],
+          "scale": 0.52000004
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2314,
+          "id": "AB_Flora_AcSapling01",
+          "temporary": true,
+          "translation": [
+            34750.11,
+            176582.58,
+            968.29395
+          ],
+          "rotation": [
+            -0.13962634,
+            -0.13962634,
+            0.43719786
+          ],
+          "scale": 0.71000004
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2317,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            34944.23,
+            173196.16,
+            653.9321
+          ],
+          "rotation": [
+            0.13962634,
+            -0.124354996,
+            3.051181
+          ],
+          "scale": 0.52000004
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2318,
+          "id": "AB_Flora_AcSapling01",
+          "temporary": true,
+          "translation": [
+            34585.53,
+            174485.48,
+            746.1821
+          ],
+          "rotation": [
+            -0.13962634,
+            0.13962634,
+            0.97909313
+          ],
+          "scale": 0.58000004
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2319,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            35792.035,
+            175166.25,
+            769.6565
+          ],
+          "rotation": [
+            -0.13962634,
+            -0.13962634,
+            5.7021723
+          ],
+          "scale": 0.97
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2320,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            34609.258,
+            175760.73,
+            954.8428
+          ],
+          "rotation": [
+            0,
+            -0.124354996,
+            4.8436923
+          ],
+          "scale": 0.72
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2322,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            35266.65,
+            172983.44,
+            756.0342
+          ],
+          "rotation": [
+            0.13962634,
+            -0.13962634,
+            2.2241483
+          ],
+          "scale": 0.71000004
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2323,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            36566.86,
+            176378.14,
+            604.3037
+          ],
+          "rotation": [
+            0.124354996,
+            -0.06241881,
+            3.0105293
+          ],
+          "scale": 0.94000006
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2324,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            36585.17,
+            175724.72,
+            580.2969
+          ],
+          "rotation": [
+            -0.0933869,
+            -0.13962634,
+            0.8184037
+          ],
+          "scale": 0.96000004
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2325,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            36985.426,
+            174257.05,
+            489.36685
+          ],
+          "rotation": [
+            0.13962634,
+            0.031209406,
+            3.7125387
+          ],
+          "scale": 0.54
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2326,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            36815.18,
+            175344.56,
+            461.36182
+          ],
+          "rotation": [
+            -0.13962634,
+            -0.13962634,
+            0.9681632
+          ],
+          "scale": 0.87000006
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2327,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            36020.906,
+            176151.06,
+            704.9453
+          ],
+          "rotation": [
+            0.06241881,
+            -0.124354996,
+            1.8170557
+          ],
+          "scale": 0.63000005
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2328,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            36820.023,
+            177100.25,
+            139.04688
+          ],
+          "rotation": [
+            0.13962634,
+            -0.062177498,
+            3.6335363
+          ],
+          "scale": 0.99000007
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2329,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            36754.98,
+            173564.73,
+            743.3396
+          ],
+          "rotation": [
+            0.124354996,
+            0.13962634,
+            4.7554855
+          ],
+          "scale": 0.71000004
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2330,
+          "id": "AB_Flora_AcSapling01",
+          "temporary": true,
+          "translation": [
+            38000.67,
+            175548.45,
+            753.2256
+          ],
+          "rotation": [
+            -0.13962634,
+            0.13962634,
+            2.5117786
+          ],
+          "scale": 0.86
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2331,
+          "id": "AB_Flora_AcSapling03",
+          "temporary": true,
+          "translation": [
+            37302.176,
+            175505.58,
+            479.4231
+          ],
+          "rotation": [
+            -0.13962634,
+            0.13962634,
+            0.8795731
+          ],
+          "scale": 0.72
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2332,
+          "id": "AB_Flora_AcSapling03",
+          "temporary": true,
+          "translation": [
+            38186.453,
+            174721.05,
+            609.8273
+          ],
+          "rotation": [
+            -0.13962634,
+            0.13962634,
+            4.448488
+          ],
+          "scale": 0.86
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2333,
+          "id": "AB_Flora_AcSapling03",
+          "temporary": true,
+          "translation": [
+            37080.633,
+            176846.56,
+            306.36963
+          ],
+          "rotation": [
+            0.13962634,
+            -0.13962634,
+            2.7420745
+          ],
+          "scale": 0.79
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2334,
+          "id": "AB_Flora_AcSapling01",
+          "temporary": true,
+          "translation": [
+            39297.684,
+            173060,
+            563.78467
+          ],
+          "rotation": [
+            0.13962634,
+            -0.13962634,
+            0.8743957
+          ],
+          "scale": 0.62
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2335,
+          "id": "AB_Flora_AcSapling01",
+          "temporary": true,
+          "translation": [
+            37793.016,
+            175808.12,
+            674.3457
+          ],
+          "rotation": [
+            0.13962634,
+            0.13962634,
+            1.2155252
+          ],
+          "scale": 0.64000005
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2336,
+          "id": "AB_Flora_AcSapling01",
+          "temporary": true,
+          "translation": [
+            39277.375,
+            176405.27,
+            309.72363
+          ],
+          "rotation": [
+            0.13962634,
+            0.13962634,
+            4.0408206
+          ],
+          "scale": 0.96000004
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2337,
+          "id": "AB_Flora_AcSapling01",
+          "temporary": true,
+          "translation": [
+            39792.184,
+            172793.89,
+            509.71777
+          ],
+          "rotation": [
+            0.13962634,
+            -0.13962634,
+            5.398627
+          ],
+          "scale": 0.70000005
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2338,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            38125.63,
+            175078.12,
+            691.6421
+          ],
+          "rotation": [
+            -0.13962634,
+            0.13962634,
+            3.6095672
+          ],
+          "scale": 0.59000003
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2339,
+          "id": "AB_Flora_AcSapling03",
+          "temporary": true,
+          "translation": [
+            38691.81,
+            175035,
+            797.4761
+          ],
+          "rotation": [
+            -0.031209406,
+            0.13962634,
+            1.7146595
+          ],
+          "scale": 0.87000006
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2340,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            39117.38,
+            174251.33,
+            533.6284
+          ],
+          "rotation": [
+            -0.13962634,
+            0.0933869,
+            2.239297
+          ],
+          "scale": 0.67
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2341,
+          "id": "AB_Flora_AcSapling01",
+          "temporary": true,
+          "translation": [
+            38897.402,
+            174742.75,
+            737.53125
+          ],
+          "rotation": [
+            -0.13962634,
+            0,
+            1.2316325
+          ],
+          "scale": 0.51000005
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2342,
+          "id": "AB_Flora_AcSapling01",
+          "temporary": true,
+          "translation": [
+            39987.973,
+            174092.84,
+            741.2551
+          ],
+          "rotation": [
+            -0.13962634,
+            0.13962634,
+            5.9253736
+          ],
+          "scale": 0.72
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2343,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            39675.89,
+            175556.12,
+            655.7119
+          ],
+          "rotation": [
+            0.13962634,
+            0.031209406,
+            0.89989895
+          ],
+          "scale": 0.71000004
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2344,
+          "id": "AB_Flora_AcSapling03",
+          "temporary": true,
+          "translation": [
+            39580.33,
+            174474.17,
+            714.625
+          ],
+          "rotation": [
+            -0.13962634,
+            0.13962634,
+            0.8738205
+          ],
+          "scale": 0.93000007
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2345,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            39300.01,
+            172330.81,
+            720.8616
+          ],
+          "rotation": [
+            -0.06241881,
+            -0.13962634,
+            4.7253804
+          ],
+          "scale": 0.76000005
+        }
+      ]
+    },
+    {
+      "type": "Cell",
+      "flags": "",
+      "name": "",
+      "data": {
+        "flags": "HAS_WATER",
+        "grid": [
+          4,
+          22
+        ]
+      },
+      "region": "Sheogorad",
+      "references": [
+        {
+          "mast_index": 0,
+          "refr_index": 2274,
+          "id": "AB_Flora_AcSapling03",
+          "temporary": true,
+          "translation": [
+            33119.664,
+            181823.02,
+            638.772
+          ],
+          "rotation": [
+            -0.0933869,
+            0.13962634,
+            3.566806
+          ],
+          "scale": 0.55
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2275,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            33326.21,
+            181299.22,
+            644.53534
+          ],
+          "rotation": [
+            0.06241881,
+            0.124354996,
+            2.7725632
+          ],
+          "scale": 0.74
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2276,
+          "id": "AB_Flora_AcSapling01",
+          "temporary": true,
+          "translation": [
+            33505.5,
+            179951.02,
+            705.4336
+          ],
+          "rotation": [
+            0.13962634,
+            0.13962634,
+            1.8216578
+          ],
+          "scale": 0.92
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2277,
+          "id": "AB_Flora_AcSapling03",
+          "temporary": true,
+          "translation": [
+            33201.293,
+            180291.64,
+            658.6975
+          ],
+          "rotation": [
+            -0.124354996,
+            0.13962634,
+            5.9784894
+          ],
+          "scale": 0.85
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2278,
+          "id": "AB_Flora_AcSapling01",
+          "temporary": true,
+          "translation": [
+            33605.062,
+            182797.92,
+            651.48285
+          ],
+          "rotation": [
+            0.13962634,
+            0.0933869,
+            3.1788888
+          ],
+          "scale": 0.88000005
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2279,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            34032.86,
+            185286.05,
+            682.2129
+          ],
+          "rotation": [
+            0.0933869,
+            0.13962634,
+            5.0496354
+          ],
+          "scale": 0.84000003
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2280,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            34282.34,
+            180717.11,
+            566.3645
+          ],
+          "rotation": [
+            0,
+            -0.13962634,
+            4.397482
+          ],
+          "scale": 0.82000005
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2281,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            34157.336,
+            180826.2,
+            627.52783
+          ],
+          "rotation": [
+            0.0933869,
+            -0.13962634,
+            5.2354445
+          ],
+          "scale": 0.78000003
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2282,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            33782.996,
+            182487.92,
+            888.2058
+          ],
+          "rotation": [
+            0.13962634,
+            0.13962634,
+            4.3790736
+          ],
+          "scale": 0.87000006
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2283,
+          "id": "AB_Flora_AcSapling01",
+          "temporary": true,
+          "translation": [
+            34454.21,
+            184074.12,
+            779.2988
+          ],
+          "rotation": [
+            -0.13962634,
+            0.13962634,
+            1.4253035
+          ],
+          "scale": 0.75000006
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2284,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            34431.09,
+            184400.44,
+            942.5952
+          ],
+          "rotation": [
+            -0.13962634,
+            0.13962634,
+            2.7439919
+          ],
+          "scale": 0.53000003
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2285,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            34145.516,
+            181931.16,
+            960.3916
+          ],
+          "rotation": [
+            -0.13962634,
+            -0.06241881,
+            0.26423627
+          ],
+          "scale": 0.67
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2286,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            34960.61,
+            183078.23,
+            658.7029
+          ],
+          "rotation": [
+            0.13962634,
+            -0.031209406,
+            4.6272025
+          ],
+          "scale": 0.72
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2287,
+          "id": "AB_Flora_AcSapling03",
+          "temporary": true,
+          "translation": [
+            34133.22,
+            182867.84,
+            713.0303
+          ],
+          "rotation": [
+            0.13962634,
+            0.0933869,
+            4.9602785
+          ],
+          "scale": 0.99000007
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2288,
+          "id": "AB_Flora_AcSapling03",
+          "temporary": true,
+          "translation": [
+            34585.027,
+            181108.75,
+            423.95166
+          ],
+          "rotation": [
+            -0.13962634,
+            -0.13962634,
+            2.0509949
+          ],
+          "scale": 0.64000005
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2289,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            35876.508,
+            183067.95,
+            834.5464
+          ],
+          "rotation": [
+            0.13962634,
+            0.06241881,
+            1.1861869
+          ],
+          "scale": 0.73
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 2290,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            33413.098,
+            180312.56,
+            681.2556
+          ],
+          "rotation": [
+            0.0933869,
+            0.13962634,
+            4.7955623
+          ],
+          "scale": 0.91
+        }
+      ]
+    },
+    {
+      "type": "Cell",
+      "flags": "",
+      "name": "",
+      "data": {
+        "flags": "HAS_WATER",
+        "grid": [
+          5,
+          19
+        ]
+      },
+      "region": "Sheogorad",
+      "references": [
+        {
+          "mast_index": 0,
+          "refr_index": 1962,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            40228.562,
+            162452.33,
+            873.5029
+          ],
+          "rotation": [
+            0.13962634,
+            0.12388338,
+            0.002109288
+          ],
+          "scale": 0.88000005
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1963,
+          "id": "AB_Flora_AcSapling03",
+          "temporary": true,
+          "translation": [
+            40710.836,
+            161685.05,
+            1046.7227
+          ],
+          "rotation": [
+            -0.13962634,
+            -0.0933869,
+            1.924246
+          ],
+          "scale": 0.59000003
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1964,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            41332.117,
+            162565.95,
+            986.933
+          ],
+          "rotation": [
+            0.13962634,
+            0.13962634,
+            3.4181972
+          ],
+          "scale": 0.78000003
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1967,
+          "id": "AB_Flora_AcSapling03",
+          "temporary": true,
+          "translation": [
+            41553.984,
+            160812.88,
+            193.89941
+          ],
+          "rotation": [
+            -0.13962634,
+            -0.13962634,
+            1.2329748
+          ],
+          "scale": 0.98
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1968,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            42953.28,
+            162934.2,
+            564.3838
+          ],
+          "rotation": [
+            0.13962634,
+            -0.13962634,
+            5.430266
+          ],
+          "scale": 0.83000004
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1969,
+          "id": "AB_Flora_AcSapling03",
+          "temporary": true,
+          "translation": [
+            43024.836,
+            163110.33,
+            481
+          ],
+          "rotation": [
+            0,
+            0,
+            2.3261611
+          ],
+          "scale": 0.63000005
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1971,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            45679.08,
+            162367.08,
+            788.4845
+          ],
+          "rotation": [
+            0.031209406,
+            0.0933869,
+            4.447913
+          ],
+          "scale": 0.59000003
+        }
+      ]
+    },
+    {
+      "type": "Cell",
+      "flags": "",
+      "name": "",
+      "data": {
+        "flags": "HAS_WATER",
+        "grid": [
+          5,
+          21
+        ]
+      },
+      "region": "Sheogorad",
+      "references": [
+        {
+          "mast_index": 0,
+          "refr_index": 1957,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            41418.05,
+            175528.45,
+            981.6594
+          ],
+          "rotation": [
+            6.1897984,
+            6.143559,
+            1.1263458
+          ],
+          "scale": 0.71000004
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1958,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            40977.305,
+            175015.97,
+            924.0737
+          ],
+          "rotation": [
+            -0.13962634,
+            0.0933869,
+            1.536137
+          ],
+          "scale": 0.98
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1959,
+          "id": "AB_Flora_AcSapling03",
+          "temporary": true,
+          "translation": [
+            43003.637,
+            173305,
+            747.8977
+          ],
+          "rotation": [
+            0.13962634,
+            -0.12388338,
+            3.504486
+          ],
+          "scale": 0.99000007
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1961,
+          "id": "AB_Flora_AcSapling01",
+          "temporary": true,
+          "translation": [
+            40971.29,
+            172147.61,
+            718.89417
+          ],
+          "rotation": [
+            0,
+            0.13962634,
+            2.0780323
+          ],
+          "scale": 0.83000004
+        }
+      ]
+    },
+    {
+      "type": "Cell",
+      "flags": "",
+      "name": "",
+      "data": {
+        "flags": "HAS_WATER",
+        "grid": [
+          5,
+          22
+        ]
+      },
+      "region": "Sheogorad",
+      "references": [
+        {
+          "mast_index": 0,
+          "refr_index": 1956,
+          "id": "AB_Flora_AcSapling03",
+          "temporary": true,
+          "translation": [
+            48016.15,
+            182915.17,
+            998.34863
+          ],
+          "rotation": [
+            0.13962634,
+            -0.13962634,
+            1.9016191
+          ],
+          "scale": 0.95000005
+        }
+      ]
+    },
+    {
+      "type": "Cell",
+      "flags": "",
+      "name": "",
+      "data": {
+        "flags": "HAS_WATER",
+        "grid": [
+          6,
+          16
+        ]
+      },
+      "region": "Sheogorad",
+      "references": [
+        {
+          "mast_index": 0,
+          "refr_index": 1736,
+          "id": "AB_Flora_AcSapling01",
+          "temporary": true,
+          "translation": [
+            52631.15,
+            138049.97,
+            495.4956
+          ],
+          "rotation": [
+            0.13962634,
+            0.13962634,
+            0.69165474
+          ],
+          "scale": 0.69000006
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1737,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            52420.03,
+            139228.83,
+            249.92456
+          ],
+          "rotation": [
+            0.13962634,
+            6.143559,
+            5.698812
+          ],
+          "scale": 0.83000004
+        }
+      ]
+    },
+    {
+      "type": "Cell",
+      "flags": "",
+      "name": "Rotheran",
+      "data": {
+        "flags": "HAS_WATER",
+        "grid": [
+          6,
+          18
+        ]
+      },
+      "region": "Sheogorad",
+      "references": [
+        {
+          "mast_index": 0,
+          "refr_index": 1732,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            51124.02,
+            154524.5,
+            1247.2739
+          ],
+          "rotation": [
+            0,
+            -0.13962634,
+            0.4584825
+          ],
+          "scale": 0.76000005
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1733,
+          "id": "AB_Flora_AcSapling01",
+          "temporary": true,
+          "translation": [
+            53546.277,
+            150237.4,
+            1447.2917
+          ],
+          "rotation": [
+            0.13962634,
+            0.13962634,
+            5.624129
+          ],
+          "scale": 0.57000005
+        }
+      ]
+    },
+    {
+      "type": "Cell",
+      "flags": "",
+      "name": "",
+      "data": {
+        "flags": "HAS_WATER",
+        "grid": [
+          6,
+          19
+        ]
+      },
+      "region": "Sheogorad",
+      "references": [
+        {
+          "mast_index": 0,
+          "refr_index": 1716,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            51988.734,
+            156133.95,
+            1388.2012
+          ],
+          "rotation": [
+            -0.13962634,
+            -0.13962634,
+            5.910033
+          ],
+          "scale": 0.73
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1717,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            52203.4,
+            156193.52,
+            1337.9116
+          ],
+          "rotation": [
+            -0.13962634,
+            -0.13962634,
+            1.873623
+          ],
+          "scale": 0.63000005
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1718,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            52435.363,
+            156451.83,
+            1389.4785
+          ],
+          "rotation": [
+            -0.0933869,
+            -0.031209406,
+            5.955287
+          ],
+          "scale": 0.86
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1719,
+          "id": "AB_Flora_AcSapling03",
+          "temporary": true,
+          "translation": [
+            52952.406,
+            164121.39,
+            789.6924
+          ],
+          "rotation": [
+            0.13962634,
+            -0.13962634,
+            1.3378638
+          ],
+          "scale": 0.63000005
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1720,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            54195.508,
+            157809.9,
+            944.9038
+          ],
+          "rotation": [
+            -0.031209406,
+            -0.13962634,
+            3.3880918
+          ],
+          "scale": 0.72
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1721,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            52791.594,
+            163849.84,
+            1076.7695
+          ],
+          "rotation": [
+            0.13962634,
+            6.143559,
+            6.1243033
+          ],
+          "scale": 0.78000003
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1722,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            53159.85,
+            158285.27,
+            1505.0776
+          ],
+          "rotation": [
+            0.13962634,
+            -0.13962634,
+            5.7784905
+          ]
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1723,
+          "id": "AB_Flora_AcSapling01",
+          "temporary": true,
+          "translation": [
+            55180.812,
+            156996.78,
+            1131.9199
+          ],
+          "rotation": [
+            0.13962634,
+            0.13962634,
+            3.08608
+          ],
+          "scale": 0.66
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1724,
+          "id": "AB_Flora_AcSapling03",
+          "temporary": true,
+          "translation": [
+            54641.633,
+            156074.98,
+            1244.458
+          ],
+          "rotation": [
+            0.13962634,
+            0.0933869,
+            5.607446
+          ],
+          "scale": 0.96000004
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1725,
+          "id": "AB_Flora_AcSapling01",
+          "temporary": true,
+          "translation": [
+            55158.867,
+            156121.3,
+            1298.7275
+          ],
+          "rotation": [
+            -0.13962634,
+            0.0933869,
+            4.316562
+          ],
+          "scale": 0.72
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1726,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            55097.598,
+            156191.27,
+            1306.1538
+          ],
+          "rotation": [
+            -0.12388338,
+            0.13962634,
+            4.8063
+          ],
+          "scale": 0.88000005
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1727,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            54581.316,
+            163550.25,
+            850.86224
+          ],
+          "rotation": [
+            0.13962634,
+            0,
+            4.755102
+          ],
+          "scale": 0.71000004
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1728,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            56193.598,
+            158223.64,
+            877.8716
+          ],
+          "rotation": [
+            0.13962634,
+            -0.06241881,
+            5.79594
+          ],
+          "scale": 0.74
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1729,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            56450.633,
+            160437.48,
+            1263.4009
+          ],
+          "rotation": [
+            -0.13962634,
+            -0.13962634,
+            5.9725447
+          ],
+          "scale": 0.8
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1731,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            56099.16,
+            159956.9,
+            1178.9988
+          ],
+          "rotation": [
+            6.143559,
+            6.143559,
+            1.7812843
+          ],
+          "scale": 0.58000004
+        }
+      ]
+    },
+    {
+      "type": "Cell",
+      "flags": "",
+      "name": "",
+      "data": {
+        "flags": "HAS_WATER",
+        "grid": [
+          6,
+          20
+        ]
+      },
+      "region": "Sheogorad",
+      "references": [
+        {
+          "mast_index": 0,
+          "refr_index": 1701,
+          "id": "AB_Flora_AcSapling03",
+          "temporary": true,
+          "translation": [
+            48439.324,
+            163715.28,
+            878.55444
+          ],
+          "rotation": [
+            0.13962634,
+            0.13962634,
+            1.0314418
+          ],
+          "scale": 0.8
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1702,
+          "id": "AB_Flora_AcSapling03",
+          "temporary": true,
+          "translation": [
+            52577.535,
+            163582.58,
+            1347.5544
+          ],
+          "rotation": [
+            0.13962634,
+            0.13962634,
+            2.26414
+          ],
+          "scale": 0.78000003
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1703,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            52836.113,
+            169924.9,
+            665.8371
+          ],
+          "rotation": [
+            -0.13962634,
+            -0.13962634,
+            3.6178124
+          ],
+          "scale": 0.81000006
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1704,
+          "id": "AB_Flora_AcSapling03",
+          "temporary": true,
+          "translation": [
+            52323.785,
+            171966.31,
+            1508.24
+          ],
+          "rotation": [
+            0.13962634,
+            -0.06241881,
+            3.9391913
+          ],
+          "scale": 0.89000005
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1705,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            54097.664,
+            169051.14,
+            65
+          ],
+          "rotation": [
+            0,
+            0,
+            5.385396
+          ],
+          "scale": 0.74
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1706,
+          "id": "AB_Flora_AcSapling01",
+          "temporary": true,
+          "translation": [
+            53551.996,
+            171974.8,
+            698.427
+          ],
+          "rotation": [
+            0,
+            -0.13962634,
+            5.763342
+          ],
+          "scale": 0.94000006
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1707,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            52947.504,
+            169855.56,
+            556.9343
+          ],
+          "rotation": [
+            6.143559,
+            6.143559,
+            0.93346596
+          ],
+          "scale": 0.71000004
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1708,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            54967.12,
+            169661,
+            72.63257
+          ],
+          "rotation": [
+            0.06241881,
+            0.06241881,
+            3.4101434
+          ],
+          "scale": 0.99000007
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1709,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            54738.984,
+            167846.16,
+            249.42871
+          ],
+          "rotation": [
+            0.0933869,
+            -0.0933869,
+            5.774847
+          ],
+          "scale": 0.72
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1710,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            55911.65,
+            164755.36,
+            722.2881
+          ],
+          "rotation": [
+            -0.13962634,
+            0.13962634,
+            2.593849
+          ],
+          "scale": 0.66
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1711,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            56122.402,
+            164569.6,
+            713.76953
+          ],
+          "rotation": [
+            -0.13962634,
+            0.13962634,
+            4.139957
+          ],
+          "scale": 0.6
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1712,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            55296.824,
+            167014.64,
+            220.14624
+          ],
+          "rotation": [
+            0.13962634,
+            0.0933869,
+            2.4066975
+          ],
+          "scale": 0.98
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1713,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            55579.74,
+            171163.97,
+            66.75345
+          ],
+          "rotation": [
+            -0.13962634,
+            -0.13962634,
+            2.8667142
+          ],
+          "scale": 0.84000003
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1714,
+          "id": "AB_Flora_AcSapling01",
+          "temporary": true,
+          "translation": [
+            55295.688,
+            165478.6,
+            588.3906
+          ],
+          "rotation": [
+            0.062177498,
+            -0.13962634,
+            3.183299
+          ],
+          "scale": 0.84000003
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1715,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            56768.266,
+            171556.4,
+            415.292
+          ],
+          "rotation": [
+            -0.06241881,
+            0.06241881,
+            5.5955577
+          ],
+          "scale": 0.67
+        }
+      ]
+    },
+    {
+      "type": "Cell",
+      "flags": "",
+      "name": "Mzuleft Ruin",
+      "data": {
+        "flags": "HAS_WATER",
+        "grid": [
+          6,
+          21
+        ]
+      },
+      "region": "Sheogorad",
+      "references": [
+        {
+          "mast_index": 0,
+          "refr_index": 1698,
+          "id": "AB_Flora_AcSapling01",
+          "temporary": true,
+          "translation": [
+            52447.773,
+            172245.66,
+            1289.5112
+          ],
+          "rotation": [
+            0.13962634,
+            -0.061464567,
+            0.8291419
+          ],
+          "scale": 0.52000004
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1699,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            54072.81,
+            172509.31,
+            412.69803
+          ],
+          "rotation": [
+            0.062177498,
+            0.13962634,
+            1.1731477
+          ],
+          "scale": 0.85
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1700,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            53686.016,
+            172576.67,
+            501.62402
+          ],
+          "rotation": [
+            0,
+            -0.06241881,
+            1.858858
+          ],
+          "scale": 0.72
+        }
+      ]
+    },
+    {
+      "type": "Cell",
+      "flags": "",
+      "name": "",
+      "data": {
+        "flags": "HAS_WATER",
+        "grid": [
+          6,
+          22
+        ]
+      },
+      "region": "Sheogorad",
+      "references": [
+        {
+          "mast_index": 0,
+          "refr_index": 1697,
+          "id": "AB_Flora_AcSapling03",
+          "temporary": true,
+          "translation": [
+            48783.082,
+            181537.66,
+            1495.884
+          ],
+          "rotation": [
+            0.13962634,
+            -0.13962634,
+            3.8613393
+          ],
+          "scale": 0.88000005
+        }
+      ]
+    },
+    {
+      "type": "Cell",
+      "flags": "",
+      "name": "",
+      "data": {
+        "flags": "HAS_WATER",
+        "grid": [
+          7,
+          19
+        ]
+      },
+      "region": "Sheogorad",
+      "references": [
+        {
+          "mast_index": 0,
+          "refr_index": 1613,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            58702.473,
+            157626.67,
+            562.38086
+          ],
+          "rotation": [
+            0.12388338,
+            -0.13962634,
+            4.264597
+          ],
+          "scale": 0.81000006
+        }
+      ]
+    },
+    {
+      "type": "Cell",
+      "flags": "",
+      "name": "",
+      "data": {
+        "flags": "HAS_WATER",
+        "grid": [
+          7,
+          20
+        ]
+      },
+      "region": "Sheogorad",
+      "references": [
+        {
+          "mast_index": 0,
+          "refr_index": 1605,
+          "id": "AB_Flora_AcSapling01",
+          "temporary": true,
+          "translation": [
+            58052.227,
+            169700.25,
+            642.241
+          ],
+          "rotation": [
+            0.13962634,
+            0.031209406,
+            5.315789
+          ],
+          "scale": 0.52000004
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1606,
+          "id": "AB_Flora_AcSapling01",
+          "temporary": true,
+          "translation": [
+            59173.375,
+            165134.34,
+            1370.3223
+          ],
+          "rotation": [
+            -0.13962634,
+            -0.13962634,
+            4.0553937
+          ],
+          "scale": 0.98
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1607,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            58652.18,
+            170272.88,
+            704.5581
+          ],
+          "rotation": [
+            0.13962634,
+            0.13962634,
+            4.205331
+          ],
+          "scale": 0.82000005
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1608,
+          "id": "AB_Flora_AcSapling03",
+          "temporary": true,
+          "translation": [
+            61728.066,
+            167020.98,
+            1140.429
+          ],
+          "rotation": [
+            6.143559,
+            6.143559,
+            4.074182
+          ],
+          "scale": 0.99000007
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1609,
+          "id": "AB_Flora_AcSapling01",
+          "temporary": true,
+          "translation": [
+            62048.55,
+            167371.84,
+            1164.7781
+          ],
+          "rotation": [
+            -0.13962634,
+            -0.13962634,
+            2.5213661
+          ],
+          "scale": 0.75000006
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1610,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            64358.664,
+            167073.72,
+            1073.377
+          ],
+          "rotation": [
+            0.13962634,
+            0.13962634,
+            4.3988295
+          ]
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1611,
+          "id": "AB_Flora_AcSapling01",
+          "temporary": true,
+          "translation": [
+            64732.223,
+            169736.2,
+            1065.7253
+          ],
+          "rotation": [
+            0.062177498,
+            -0.13962634,
+            6.0797353
+          ],
+          "scale": 0.88000005
+        }
+      ]
+    },
+    {
+      "type": "Cell",
+      "flags": "",
+      "name": "",
+      "data": {
+        "flags": "HAS_WATER",
+        "grid": [
+          7,
+          21
+        ]
+      },
+      "region": "Sheogorad",
+      "references": [
+        {
+          "mast_index": 0,
+          "refr_index": 1602,
+          "id": "AB_Flora_AcSapling03",
+          "temporary": true,
+          "translation": [
+            59150.426,
+            180186.9,
+            710.667
+          ],
+          "rotation": [
+            0.13962634,
+            -0.13962634,
+            4.009565
+          ]
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1603,
+          "id": "AB_Flora_AcSapling03",
+          "temporary": true,
+          "translation": [
+            65078.863,
+            177907.77,
+            1328.1978
+          ],
+          "rotation": [
+            -0.13962634,
+            -0.13962634,
+            4.827585
+          ],
+          "scale": 0.64000005
+        }
+      ]
+    },
+    {
+      "type": "Cell",
+      "flags": "",
+      "name": "Dagon Fel",
+      "data": {
+        "flags": "HAS_WATER | RESTING_IS_ILLEGAL",
+        "grid": [
+          7,
+          22
+        ]
+      },
+      "region": "Sheogorad",
+      "references": [
+        {
+          "mast_index": 0,
+          "refr_index": 1593,
+          "id": "AB_Flora_AcSapling01",
+          "temporary": true,
+          "translation": [
+            58141.207,
+            180893.4,
+            694.0571
+          ],
+          "rotation": [
+            0.13962634,
+            -0.13962634,
+            3.6450415
+          ],
+          "scale": 0.64000005
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1595,
+          "id": "AB_Flora_AcSapling03",
+          "temporary": true,
+          "translation": [
+            59199.4,
+            182066.42,
+            330.62207
+          ],
+          "rotation": [
+            0.0933869,
+            0.13962634,
+            3.2730398
+          ],
+          "scale": 0.58000004
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1598,
+          "id": "AB_Flora_AcSapling01",
+          "temporary": true,
+          "translation": [
+            61959.15,
+            182009.31,
+            296.88477
+          ],
+          "rotation": [
+            0.13962634,
+            -0.13962634,
+            5.777915
+          ],
+          "scale": 0.58000004
+        }
+      ]
+    },
+    {
+      "type": "Cell",
+      "flags": "",
+      "name": "",
+      "data": {
+        "flags": "HAS_WATER",
+        "grid": [
+          7,
+          23
+        ]
+      },
+      "region": "Sheogorad",
+      "references": [
+        {
+          "mast_index": 0,
+          "refr_index": 1590,
+          "id": "AB_Flora_AcSapling01",
+          "temporary": true,
+          "translation": [
+            60897.66,
+            194038.03,
+            695.4817
+          ],
+          "rotation": [
+            0.13962634,
+            -0.13962634,
+            3.475723
+          ],
+          "scale": 0.6
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1591,
+          "id": "AB_Flora_AcSapling01",
+          "temporary": true,
+          "translation": [
+            60606.73,
+            194940.86,
+            277.18045
+          ],
+          "rotation": [
+            0.13962634,
+            -0.13962634,
+            1.0807225
+          ],
+          "scale": 0.82000005
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1592,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            61243.31,
+            194480.27,
+            603.1743
+          ],
+          "rotation": [
+            0.13962634,
+            0.13962634,
+            3.7361243
+          ],
+          "scale": 0.68
+        }
+      ]
+    },
+    {
+      "type": "Cell",
+      "flags": "",
+      "name": "",
+      "data": {
+        "flags": "HAS_WATER",
+        "grid": [
+          8,
+          18
+        ]
+      },
+      "region": "Sheogorad",
+      "references": [
+        {
+          "mast_index": 0,
+          "refr_index": 1462,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            67855.22,
+            152321.62,
+            117.19531
+          ],
+          "rotation": [
+            0.031209406,
+            -0.13962634,
+            5.6584525
+          ],
+          "scale": 0.73
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1463,
+          "id": "AB_Flora_AcSapling01",
+          "temporary": true,
+          "translation": [
+            68405.16,
+            153991.45,
+            130.9358
+          ],
+          "rotation": [
+            0,
+            0.124354996,
+            0.8003789
+          ],
+          "scale": 0.61
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1464,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            68348.055,
+            153676.12,
+            125.26465
+          ],
+          "rotation": [
+            -0.031209406,
+            0.0933869,
+            1.0763122
+          ],
+          "scale": 0.96000004
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1465,
+          "id": "AB_Flora_AcSapling03",
+          "temporary": true,
+          "translation": [
+            68450.25,
+            153842.22,
+            140.41992
+          ],
+          "rotation": [
+            -0.031209406,
+            0.0933869,
+            3.2164724
+          ],
+          "scale": 0.53000003
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1466,
+          "id": "AB_Flora_AcSapling01",
+          "temporary": true,
+          "translation": [
+            70557.53,
+            150334.77,
+            162.16504
+          ],
+          "rotation": [
+            0.13962634,
+            -0.0933869,
+            5.0323777
+          ],
+          "scale": 0.63000005
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1467,
+          "id": "AB_Flora_AcSapling01",
+          "temporary": true,
+          "translation": [
+            69254.234,
+            150605.03,
+            66.55664
+          ],
+          "rotation": [
+            0.13962634,
+            0,
+            5.859986
+          ],
+          "scale": 0.73
+        }
+      ]
+    },
+    {
+      "type": "Cell",
+      "flags": "",
+      "name": "",
+      "data": {
+        "flags": "HAS_WATER",
+        "grid": [
+          8,
+          20
+        ]
+      },
+      "region": "Sheogorad",
+      "references": [
+        {
+          "mast_index": 0,
+          "refr_index": 1458,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            64898.99,
+            170706.34,
+            861.3992
+          ],
+          "rotation": [
+            6.1919055,
+            6.143559,
+            1.4315164
+          ],
+          "scale": 0.69000006
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1459,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            66893.164,
+            167139.75,
+            1199.8384
+          ],
+          "rotation": [
+            0.030968092,
+            -0.13962634,
+            1.7925113
+          ],
+          "scale": 0.53000003
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1460,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            66401.82,
+            168220.31,
+            922.26025
+          ],
+          "rotation": [
+            0.13962634,
+            0.13962634,
+            3.1681507
+          ],
+          "scale": 0.82000005
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1461,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            67028.53,
+            167344.02,
+            1139.583
+          ],
+          "rotation": [
+            0.06241881,
+            -0.13962634,
+            1.1917478
+          ],
+          "scale": 0.59000003
+        }
+      ]
+    },
+    {
+      "type": "Cell",
+      "flags": "",
+      "name": "",
+      "data": {
+        "flags": "HAS_WATER",
+        "grid": [
+          8,
+          21
+        ]
+      },
+      "region": "Sheogorad",
+      "references": [
+        {
+          "mast_index": 0,
+          "refr_index": 1453,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            65764.98,
+            172024.23,
+            474.6079
+          ],
+          "rotation": [
+            6.1897984,
+            6.143559,
+            1.4173287
+          ],
+          "scale": 0.52000004
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1454,
+          "id": "AB_Flora_AcSapling03",
+          "temporary": true,
+          "translation": [
+            65558.31,
+            175967.03,
+            888.8125
+          ],
+          "rotation": [
+            0.13962634,
+            -0.13962634,
+            3.149934
+          ],
+          "scale": 0.67
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1455,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            65229.137,
+            176400.05,
+            975.124
+          ],
+          "rotation": [
+            0.13962634,
+            6.143559,
+            1.7434304
+          ],
+          "scale": 0.93000007
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1456,
+          "id": "AB_Flora_AcSapling02",
+          "temporary": true,
+          "translation": [
+            65275.465,
+            179565.1,
+            1627.6228
+          ],
+          "rotation": [
+            6.143559,
+            6.143559,
+            1.3612373
+          ],
+          "scale": 0.64000005
+        },
+        {
+          "mast_index": 0,
+          "refr_index": 1457,
+          "id": "AB_Flora_AcSapling04",
+          "temporary": true,
+          "translation": [
+            65270.6,
+            175920.89,
+            1133.7148
+          ],
+          "rotation": [
+            0.13962634,
+            -0.13962634,
+            1.1148546
+          ],
+          "scale": 0.58000004
+        }
+      ]
+    }
+  ]
+  
