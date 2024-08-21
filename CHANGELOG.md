@@ -1,36 +1,27 @@
-Version 1.1.2
-- Updated `03 OSOGP - OAAB_Saplings_AC BCOM patch` to fix floaters in Tel Aruhn (credit: Sophie).
-- Added patch for 'The Road to Vivec Lighthouse' by RandomPal, deleting saplings from the road in cells 2,-14 and 3,-15. Compatible with other AI patches.
+Version 2.0.0
+- Complete overhaul of original mod, merging in features from 'OAAB Saplings OpenMW Groundcover Patch'
+- Sapling placement trimmed with 'The Lawnmower' tool by Acidzebra
+- merged ESP replaced with an ESM
+- patches added for BCOM, 'Concept Arts Plantations' (BCOM version), 'The Great Seawall of Vivec', 'The Stonewood Pass Reworked', and 'The Road to the Lighthouse'
+- modular regional ESPs replaced with region remover ESPs which optionally remove saplings from specified regions
+- FOMOD installer added
+
+Version 1.5.0
+- Cleaned up some placement in WG and AI modules
+- Fixed exterior cell "illegal to rest" flags for some settlements
+
+Version 1.4.0
+- Separated Sheogorad into its own regional plugin
+
+Version 1.3.0
+- Cleaned up some placement in the AI and WG regions (special thanks to Lucevar for the AI module - expect better compatibility with BCoM in that region with this update)
+
+Version 1.2.0
+- Added and merged correct version of the WG plugin which cleans up placement
+- Cleaned plugins
 
 Version 1.1.0
-- Added `05 OSOGP - Great Seawall of Vivec + BCOM + Concept Art Plantations Combined`.
-- Restructured folders.
-- Added FOMOD installer.
-
-Version 1.0.9
-- Added `06 BCOM + Concept Art Plantations` patch (credit: Sophie)
-
-Version 1.0.8
-- Added patch for The Great Seawall of Vivec, created by Sophie on MMC Discord - removes saplings from the walkway in cells 6,-13; 6,-14; 7,-13.
-
-Version 1.0.7
-- Updated '01 BCOM patch for OAAB_Saplings_WG', fixing floaters and clipping meshes in cell Balmora -2,-2 (credit: Sophie)
-
-Version 1.0.6
-- Added a regular BCOM (minus Stonewood Pass) patch for OAAB_Saplings_WG, created by Sophie on MMC. Edits saplings in cell: Balmora -3,-2.
-
-Version 1.0.5
-- Added a BCOM patch for OAAB_Saplings_AC (Credit to Sophie on MMC for the fix)
-
-Version 1.0.4
-- Removed optional patch for 'Vanilla-friendly West Gash Tree Replacer', as the original mod does not require a patch for OAAB saplings anymore.
-- Updated plugins to latest version of OAAB_Data
-
-Version 1.0.2
-- Updated to version 2.1.1 of OAAB Data. Included OAAB_Saplings_WG.esp and 'Graht Morrowind Swamp Trees patch' which were mistakenly omitted from version 1.01 of this mod
-
-Version 1.0.1
-- Updated to version 2.1.0 of OAAB_Data
+- Added optional merged plugin
 
 Version 1.0.0
-- Initial Release
+- Initial release

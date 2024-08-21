@@ -1,10 +1,10 @@
-![Mod-page banner-image of saplings in the Ascadian Isles](https://github.com/MasssiveJuice08/OAAB_Saplings/blob/main/SaplingsTransparent.png)
+![OAAB Saplings banner image](https://github.com/MasssiveJuice08/OAAB_Saplings/blob/main/SaplingsTransparent.png)
 
 ## Description:  
 
-This patch enables OpenMW to utilise Melchior Dahrk's 'OAAB Saplings' as groundcover in OpenMW versions 0.47+, improving engine performance as opposed to the static models. This is no longer possible with the original OAAB Saplings mod since OpenMW's handling of groundcover changed in OpenMW 0.47.  
+This mod places saplings from OAAB_Data in most regions on Vvardenfell. 
   
-Alternatively, consider using [Groundcoverify](https://gitlab.com/bmwinger/groundcoverify) by Benjamin Winger or [Habasi](https://www.nexusmods.com/morrowind/mods/53002) by Alvazir. These tools can create groundcover for all the grass/kelp type flora statics in your whole mod loadout, reducing the likelihood of conflicts and giving more comprehensive performance improvements. They take a bit to get your head around, but the pay-off is worth it! However, the patches included with this are useful.  
+As of version 2.0.0, compatibility is now built-in to run the mod as groundcover in OpenMW. The mod is now an ESM so is made easier to patch, and includes a number of patches for BCOM and other popular mod.
   
 ## Requirements:  
 
@@ -19,17 +19,12 @@ This mod is a complete replacer for OAAB Saplings and includes the sapling meshe
 
 Packaged with this mod are patches (primarily for BCOM) for the following mods:
 
-**OAAB_Saplings_AC.esp**
+**Plugins**
 - [BCOM](https://www.nexusmods.com/morrowind/mods/49231)
-
-**OAAB_Saplings_AI.esp**  
-- [BCOM + BCOM Patch for Concept Arts Plantations](https://www.nexusmods.com/morrowind/mods/49231)
+- [The Stonewood Pass Reworked](https://www.nexusmods.com/morrowind/mods/49464) - requires original mod, BCOM and OAAB_Saplings BCOM patch
+- [BCOM Patch for Concept Arts Plantations](https://www.nexusmods.com/morrowind/mods/49231) - requires original mod, BCOM and OAAB_Saplings BCOM patch
 - [The Great Seawall of Vivec](https://www.nexusmods.com/morrowind/mods/53544)
 - [The Road to the Lighthouse](https://www.nexusmods.com/morrowind/mods/54076)
-
-**OAAB_Saplings_WG.esp**
-- [BCOM](https://www.nexusmods.com/morrowind/mods/49231)
-- [The Stonewood Pass Reworked](https://www.nexusmods.com/morrowind/mods/49464)
 
 **Tree Replacers**
 - [Graht Morrowind Swamp Trees](https://www.nexusmods.com/morrowind/mods/49771) (not compatible with SM Bitter Coast Tree Replacer patch)
@@ -38,27 +33,24 @@ Packaged with this mod are patches (primarily for BCOM) for the following mods:
   
 ## Installation:  
 
-Pick from the following folders (only `00 OSOGP - Core` is required)
+Pick from the following folders (only `00 Core` is required)
 
-- `00 OSOGP - Core` (required)
-- `01 OSOGP - Tree Replacer Patches` (optional)
-   - `01 OSOGP - Melchior's Excellent Grazelands Acacia patch`
-   - `02 OSOGP - Graht Morrowind Swamp Trees patch`
-   - `02 OSOGP - SM Bitter Coast Tree Replacer patch` (only pick `Graht Morrowind Swamp Trees` OR `SM Bitter Coast Tree Replacer`)
-- `02 OSOGP - West Gash Patches` (optional - pick one)
-   - `01 OSOGP - BCOM patch for OAAB_Saplings_WG`
-   - `01 OSOGP - SWP + BCOM patch for OAAB_Saplings_WG`
-- `03 OSOGP - OAAB_Saplings_AC BCOM patch` (optional)
-- `04 OSOGP - Ascadian Isles Patches` (optional - pick one)
-   - `01 OSOGP - BCOM + Concept Art Plantations`
-   - `01 OSOGP - Great Seawall of Vivec`
-   - `01 OSOGP - Great Seawall of Vivec + BCOM + Concept Art Plantations Combined`
-   - `01 OSOGP - Path to the Lighthouse`
-   - `01 OSOGP - Path to the Lighthouse + BCOM + Concept Art Plantations Combined`
-   - `01 OSOGP - Path to the Lighthouse + Great Seawall of Vivec`
-   - `01 OSOGP - Path to the Lighthouse + BCOM + Concept Art Plantations Combined + Great Seawall of Vivec`
+```
+- 00 Core (required)
+- 01 BCOM Patch (optional)
+- 02 The Stonewood Pass patch (optional) - requires BCOM, original mod and 01 BCOM Patch
+- 03 BCOM Concept Art Plantations Patch (optional) - requires BCOM, original mod and 01 BCOM Patch
+- 04 Great Seawall of Vivec patch (optional)
+- 05 The Road to the Lighthouse patch (optional)
+- 10 OpenMW Groundcover Patch (optional) - if wanting to run mod as groundcover in OpenMW
+- 11 Tree Replacer patches (OpenMW)
+   - 01 Melchior's Excellent Grazelands Acacia patch
+   - 02 Graht Morrowind Swamp Trees patch
+   - 02 SM Bitter Coast Tree Replacer patch (only pick Graht Morrowind Swamp Trees OR SM Bitter Coast Tree Replacer)
+- 12 Region Removers (optional) - allows you to optionally remove all saplings from a particular region (pick any)
+```
   
-### ENABLING GROUNDCOVER IN OPENMW - REQUIRED:  
+### ENABLING GROUNDCOVER IN OPENMW (optional):  
 
 1. Ensure Groundcover is enabled in OpenMW:
 
@@ -97,25 +89,9 @@ groundcover=OAAB_Saplings_WG.esp
 - [Tips: Performance](https://modding-openmw.com/tips/performance/) (Modding-OpenMW.com) 
 - [Groundcover Settings](https://elsid-openmw.readthedocs.io/en/latest/reference/modding/settings/groundcover.html) (OpenMW manual on Read the Docs) 
   
-## How was this made?  
-
-OpenMW groundcover mods need to load meshes from a folder called 'Grass'. I just placed the meshes there and changed the file path to the meshes in the plugins.  
-  
 ## Acknowledgements:   
 
-- **MelchiorDahrk** as author of the original [OAAB Saplings](https://www.nexusmods.com/morrowind/mods/50334) Mod, [Melchior's Excellent Grazelands Acacia](https://www.nexusmods.com/morrowind/mods/51058) and [Vanilla Friendly West Gash Tree Replacer](https://www.nexusmods.com/morrowind/mods/44173).  
-- **Mrovkogon** as author of the original patch ['OAAB Saplings West Gash for BCOM and SWP'](https://www.nexusmods.com/morrowind/mods/50626)
 - **MelchiorDahrk** and **XeroFoxx** for [Graht Morrowind Swamp Trees](https://www.nexusmods.com/morrowind/mods/49771)  
-- **CMAugust** on the OpenMW Discord for identifying why the original OAAB Saplings no longer worked as groundcover in OpenMW  
-- **Greatness7** for [Tes3conv](https://github.com/Greatness7/tes3conv)  
-- **Hemaris** for inspiring this idea with their ['Turn Normal Grass and Kelp into Groundcover'](https://www.nexusmods.com/morrowind/mods/52010) and ['Stirk Performance Improver'](https://www.nexusmods.com/morrowind/mods/52058) mods.  
-- The team at [OAAB_Data](https://www.nexusmods.com/morrowind/mods/49042)  
-- Thanks to **Sophie** on the MMC Discord for creating the following patches:
-   - `01 OSOGP - BCOM patch for OAAB_Saplings_WG`
-   - `02 OSOGP - OAAB_Saplings_AC BCOM patch`
-   - `04 OSOGP - Ascadian Isles Patches`
-      - `01 OSOGP - BCOM + Concept Art Plantations`
-      - `01 OSOGP - Great Seawall of Vivec`
-      - `01 OSOGP - Great Seawall of Vivec + BCOM + Concept Art Plantations Combined`
+- **Greatness7** and **Sector** for assistance with using Tes3cmd and Tes3conv.  
   
 Make sure to endorse the original mods!
