@@ -25,7 +25,7 @@ Packaged with this mod are patches (primarily for BCOM) for the following mods:
 **Plugins:**
 - [BCOM](https://www.nexusmods.com/morrowind/mods/49231)
 - [The Stonewood Pass Reworked](https://www.nexusmods.com/morrowind/mods/49464) - requires original mod, BCOM and OAAB_Saplings BCOM patch
-- [BCOM Patch for Concept Arts Plantations](https://www.nexusmods.com/morrowind/mods/49231) - requires original mod, BCOM and OAAB_Saplings BCOM patch
+- [Concept Arts Plantations](https://www.nexusmods.com/morrowind/mods/49231)
 - [The Great Seawall of Vivec](https://www.nexusmods.com/morrowind/mods/53544)
 - [The Road to the Lighthouse](https://www.nexusmods.com/morrowind/mods/54076)
 
@@ -42,7 +42,7 @@ Pick from the following folders (only `00 Core` is required)
 `00 Core` (required)  
 `01 BCOM Patch` (optional)  
 `02 The Stonewood Pass patch` (optional) - requires BCOM, original mod and 01 BCOM Patch  
-`03 BCOM Concept Art Plantations Patch` (optional) - requires BCOM, original mod and 01 BCOM Patch  
+`03 Concept Arts plantations Patch` (optional) - requires original mod, also compatible with BCOM esp replacer.
 `04 Great Seawall of Vivec patch` (optional)  
 `05 The Road to the Lighthouse patch` (optional)  
 `10 OpenMW Groundcover Patch` (optional) - if wanting to run mod as groundcover in OpenMW  
@@ -56,7 +56,7 @@ Pick from the following folders (only `00 Core` is required)
 ### Load Order
 
 - Any plugins in `12 Region Removers` must load after **all** other OAAB Saplings plugins.
-- `OAAB_Saplings SWP patch.esp` and `OAAB_Saplings Concept Art Plantations BCOM patch.ESP` must both load after `OAAB_Saplings BCOM patch.esp`
+- `OAAB_Saplings SWP patch.esp` must load after `OAAB_Saplings BCOM patch.esp`
 - **OpenMW groundcover users only**: `groundcover=OAAB_Saplings.esm` should load before all other OAAB Sapling plugins.
 
 It is recommended you use [Mlox](https://github.com/rfuzzo/mlox/releases) or [Plox](https://www.nexusmods.com/morrowind/mods/54262) to sort your load order. Load order rules for OAAB Saplings are already included in [mlox-rules](https://github.com/DanaePlays/mlox-rules). Alternatively, if you are following a modlist from [MOMW](https://modding-openmw.com/), consult the recommended load order given there (**Note**: MOMW is not yet up to date with the latest release of OAAB Saplings)
