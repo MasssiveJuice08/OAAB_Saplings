@@ -1,6 +1,7 @@
 Version 2.1.0
 - Run autoclean_cities_vanilla.esp from lawnmower tool on esm and move clipping groundcover. Tes3cmd delete the refrences on the esm and all the patches.
 - Rename Concept Arts plantations plugin as it is compatible with or without BCOM out of the box.
+- few fixes in BCOM patch and Concept Arts plantations patch.
 
 Version 2.0.0
 - Complete overhaul of original mod, merging in features from 'OAAB Saplings OpenMW Groundcover Patch'
