@@ -1,3 +1,7 @@
+Hotfix 2.1.1
+- Fixed BCOM patch not having its LawnMowered saplings deleted. Now has had Tes3cmd ran correctly on it.
+- Updated and re-added FOMOD, omitted from previous update by mistake.
+
 Version 2.1.0
 - Run autoclean_cities_vanilla.esp from LawnMower tool on ESM and move clipping groundcover. Tes3cmd delete the references on the ESM and all the patches.
 - Rename Concept Arts Plantations plugin as it is compatible with or without BCOM out of the box.
