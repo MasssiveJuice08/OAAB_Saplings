@@ -1,4 +1,10 @@
-Hotfix 2.1.1
+Version 2.1.2
+- Fix Gnisis floaters in BCOM patch that had OpenMW engine issue.
+- Fixed most error log warnings with the patch.
+- Updated archive to be BAIN installer compatible.
+- Updated fomod.
+
+Version 2.1.1
 - Fixed BCOM patch not having its LawnMowered saplings deleted. Now has had Tes3cmd ran correctly on it.
 - Updated and re-added FOMOD, omitted from previous update by mistake.
 
