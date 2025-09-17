@@ -41,17 +41,26 @@ Pick from the following folders (only `00 Core` is required)
 
 
 `00 Core` (required)  
+
 `01 BCOM Patch` (optional)  
+
 `02 The Stonewood Pass patch` (optional) - requires BCOM, original mod and 01 BCOM Patch  
+
 `03 Concept Arts plantations Patch` (optional) - requires original mod, also compatible with BCOM esp replacer.
+
 `04 Great Seawall of Vivec patch` (optional)
+
 `05 The Road to the Lighthouse patch` (optional)
+
 `06 Minor Plantations Redone patch` (optional)
-`10 OpenMW Groundcover Patch` (optional) - if wanting to run mod as groundcover in OpenMW  
+
+`10 OpenMW Groundcover Patch` (optional) - if wanting to run mod as groundcover in OpenMW
+
 `11 Tree Replacer patches (OpenMW)` (optional) - only required for OpenMW groundcover users  
 - `01 Melchior's Excellent Grazelands Acacia patch`
 - `02 Graht Morrowind Swamp Trees patch`
-- `02 SM Bitter Coast Tree Replacer patch` (only pick Graht Morrowind Swamp Trees OR SM Bitter Coast Tree Replacer)  
+- `02 SM Bitter Coast Tree Replacer patch` (only pick Graht Morrowind Swamp Trees OR SM Bitter Coast Tree Replacer)
+
 `12 Region Removers` (optional) - allows you to optionally remove all saplings from a particular region (pick any)  
 
   
