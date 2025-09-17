@@ -46,7 +46,7 @@ Pick from the following folders (only `00 Core` is required)
 `03 Concept Arts plantations Patch` (optional) - requires original mod, also compatible with BCOM esp replacer.
 `04 Great Seawall of Vivec patch` (optional)  
 `05 The Road to the Lighthouse patch` (optional)
-`06 Minor Plantations Redone patch` (optional)  
+`06 Minor Plantations Redone patch` (optional)
 `10 OpenMW Groundcover Patch` (optional) - if wanting to run mod as groundcover in OpenMW  
 `11 Tree Replacer patches (OpenMW)` (optional) - only required for OpenMW groundcover users  
 - `01 Melchior's Excellent Grazelands Acacia patch`
