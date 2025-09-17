@@ -1,3 +1,6 @@
+Version 2.20
+- Added patch for [Minor Plantations Redone](https://www.nexusmods.com/morrowind/mods/54537) by Endify 123.
+
 Version 2.1.2
 - Fix Gnisis floaters in BCOM patch that had OpenMW engine issue.
 - Fixed most error log warnings with the patch.

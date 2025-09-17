@@ -28,6 +28,7 @@ Packaged with this mod are patches (primarily for BCOM) for the following mods:
 - [Concept Arts Plantations](https://www.nexusmods.com/morrowind/mods/50020)
 - [The Great Seawall of Vivec](https://www.nexusmods.com/morrowind/mods/53544)
 - [The Road to the Lighthouse](https://www.nexusmods.com/morrowind/mods/54076)
+- [Minor Plantations Redone](https://www.nexusmods.com/morrowind/mods/54537)
 
 **Tree Replacers:** (only required for OpenMW groundcover users - The original sapling replacer patches will work for vanilla users or OpenMW users who choose not to run the mod as groundcover)
 - [Graht Morrowind Swamp Trees](https://www.nexusmods.com/morrowind/mods/49771) (not compatible with SM Bitter Coast Tree Replacer patch)
@@ -44,7 +45,8 @@ Pick from the following folders (only `00 Core` is required)
 `02 The Stonewood Pass patch` (optional) - requires BCOM, original mod and 01 BCOM Patch  
 `03 Concept Arts plantations Patch` (optional) - requires original mod, also compatible with BCOM esp replacer.
 `04 Great Seawall of Vivec patch` (optional)  
-`05 The Road to the Lighthouse patch` (optional)  
+`05 The Road to the Lighthouse patch` (optional)
+`06 Minor Plantations Redone patch` (optional)  
 `10 OpenMW Groundcover Patch` (optional) - if wanting to run mod as groundcover in OpenMW  
 `11 Tree Replacer patches (OpenMW)` (optional) - only required for OpenMW groundcover users  
 - `01 Melchior's Excellent Grazelands Acacia patch`
