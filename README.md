@@ -44,7 +44,7 @@ Pick from the following folders (only `00 Core` is required)
 `01 BCOM Patch` (optional)  
 `02 The Stonewood Pass patch` (optional) - requires BCOM, original mod and 01 BCOM Patch  
 `03 Concept Arts plantations Patch` (optional) - requires original mod, also compatible with BCOM esp replacer.
-`04 Great Seawall of Vivec patch` (optional)  
+`04 Great Seawall of Vivec patch` (optional)
 `05 The Road to the Lighthouse patch` (optional)
 `06 Minor Plantations Redone patch` (optional)
 `10 OpenMW Groundcover Patch` (optional) - if wanting to run mod as groundcover in OpenMW  
