@@ -1,4 +1,7 @@
-Version 2.20
+Version 2.2.1
+- Fixed additional clipping sapling in BCOM patch.
+
+Version 2.2.0
 - Added patch for [Minor Plantations Redone](https://www.nexusmods.com/morrowind/mods/54537) by Endify 123.
 
 Version 2.1.2
