@@ -29,6 +29,7 @@ Packaged with this mod are patches (primarily for BCOM) for the following mods:
 - [The Great Seawall of Vivec](https://www.nexusmods.com/morrowind/mods/53544)
 - [The Road to the Lighthouse](https://www.nexusmods.com/morrowind/mods/54076)
 - [Minor Plantations Redone](https://www.nexusmods.com/morrowind/mods/54537)
+- [OAAB Brother Junipers Twin Lamps](https://www.nexusmods.com/morrowind/mods/51424)
 
 **Tree Replacers:** (only required for OpenMW groundcover users - The original sapling replacer patches will work for vanilla users or OpenMW users who choose not to run the mod as groundcover)
 - [Graht Morrowind Swamp Trees](https://www.nexusmods.com/morrowind/mods/49771) (not compatible with SM Bitter Coast Tree Replacer patch)
@@ -54,6 +55,8 @@ Pick from the following folders (only `00 Core` is required)
 
 `06 Minor Plantations Redone patch` (optional)
 
+`07 OAAB Brother Junipers Twin Lamps` (optional)
+
 `10 OpenMW Groundcover Patch` (optional) - if wanting to run mod as groundcover in OpenMW
 
 `11 Tree Replacer patches (OpenMW)` (optional) - only required for OpenMW groundcover users  
@@ -70,7 +73,7 @@ Pick from the following folders (only `00 Core` is required)
 - `OAAB_Saplings SWP patch.esp` must load after `OAAB_Saplings BCOM patch.esp`
 - **OpenMW groundcover users only**: `groundcover=OAAB_Saplings.esm` should load before all other OAAB Sapling plugins.
 
-It is recommended you use [Mlox](https://github.com/rfuzzo/mlox/releases) or [Plox](https://www.nexusmods.com/morrowind/mods/54262) to sort your load order. Load order rules for OAAB Saplings are already included in [mlox-rules](https://github.com/DanaePlays/mlox-rules). Alternatively, if you are following a modlist from [MOMW](https://modding-openmw.com/), consult the recommended load order given there (**Note**: MOMW is not yet up to date with the latest release of OAAB Saplings)
+It is recommended you use [Mlox](https://github.com/rfuzzo/mlox/releases) or [Plox](https://www.nexusmods.com/morrowind/mods/54262) to sort your load order. Load order rules for OAAB Saplings are already included in [mlox-rules](https://github.com/DanaePlays/mlox-rules). Alternatively, if you are following a modlist from [MOMW](https://modding-openmw.com/), consult the recommended load order given there.
 
 ### OpenMW Groundcover Support (optional):  
 

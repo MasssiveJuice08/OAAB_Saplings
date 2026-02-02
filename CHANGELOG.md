@@ -1,3 +1,6 @@
+Version 2.3.0
+- Added patch for [OAABBrotherJunipersTwinLamps](https://www.nexusmods.com/morrowind/mods/51424) by Lucevar.
+
 Version 2.2.1
 - Fixed additional clipping sapling in BCOM patch.
 
