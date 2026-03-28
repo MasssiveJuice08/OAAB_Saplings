@@ -24,7 +24,7 @@ Packaged with this mod are patches (primarily for BCOM) for the following mods:
 
 **Plugins:**
 - [BCOM](https://www.nexusmods.com/morrowind/mods/49231)
-- [The Stonewood Pass Reworked](https://www.nexusmods.com/morrowind/mods/49464) - requires original mod, BCOM and OAAB_Saplings BCOM patch
+- [The Stonewood Pass Reworked](https://www.nexusmods.com/morrowind/mods/49464) - works OOB with either BCOM or regular version of the mod.
 - [Concept Arts Plantations](https://www.nexusmods.com/morrowind/mods/50020)
 - [The Great Seawall of Vivec](https://www.nexusmods.com/morrowind/mods/53544)
 - [The Road to the Lighthouse](https://www.nexusmods.com/morrowind/mods/54076)
@@ -45,7 +45,7 @@ Pick from the following folders (only `00 Core` is required)
 
 `01 BCOM Patch` (optional)  
 
-`02 The Stonewood Pass patch` (optional) - requires BCOM, original mod and 01 BCOM Patch  
+`02 The Stonewood Pass patch` works OOB with either BCOM or regular version of the mod.
 
 `03 Concept Arts plantations Patch` (optional) - requires original mod, also compatible with BCOM esp replacer.
 

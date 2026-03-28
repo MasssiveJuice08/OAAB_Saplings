@@ -37,10 +37,10 @@
 				</group> 
 			</optionalFileGroups> 
 		</installStep> 
-		<installStep name="Step2 - BCOM Patches"> 
+		<installStep name="Step2 - Other Patches"> 
 			<optionalFileGroups order="Explicit"> 
-				<group name="BCOM" type="SelectAtMostOne"> 
-					<plugins order="Explicit"> 
+				<group name="Other Mod Patches" type="SelectAny"> 
+					<plugins order="Explicit">
 						<plugin name="Beautiful Cities of Morrowind"> 
 							<description>Patch for 'Beautiful Cities of Morrowind' by RandomPal. Other BCOM patches for OAAB Saplings require this patch too.</description> 
 							<files> 
@@ -49,11 +49,7 @@
 							<typeDescriptor> 
 								<type name="Optional"/> 
 							</typeDescriptor> 
-						</plugin> 
-					</plugins> 
-				</group> 
-				<group name="BCOM Patches" type="SelectAtMostOne"> 
-					<plugins order="Explicit"> 
+						</plugin>
 						<plugin name="The Stonewood Pass Reworked"> 
 							<description>Requires 'Beautiful Cities of Morrowind' and 'The Stonewood pass reworked' by RandomPal.</description> 
 							<files> 
@@ -63,14 +59,6 @@
 								<type name="Optional"/> 
 							</typeDescriptor> 
 						</plugin> 
-					</plugins> 
-				</group> 
-			</optionalFileGroups> 
-		</installStep> 
-		<installStep name="Step3 - Other Patches"> 
-			<optionalFileGroups order="Explicit"> 
-				<group name="Other Mod Patches" type="SelectAny"> 
-					<plugins order="Explicit"> 
 						<plugin name="Concept Arts Plantations"> 
 							<description>If using 'Concept Arts Plantations' by Duo Dinamico. This works with either the original mod, or the ESP replacer packaged with 'Beautiful Cities of Morrowind'.</description> 
 							<files> 
@@ -120,7 +108,7 @@
 				</group> 
 			</optionalFileGroups> 
 		</installStep> 
-		<installStep name="Step4 - Tree Replacer Patches (OpenMW)"> 
+		<installStep name="Step3 - Tree Replacer Patches (OpenMW)"> 
 			<optionalFileGroups order="Explicit"> 
 				<group name="Grazelands tree replacer patches for OpenMW groundcover" type="SelectAtMostOne"> 
 					<plugins order="Explicit"> 
@@ -159,7 +147,7 @@
 				</group> 
 			</optionalFileGroups> 
 		</installStep> 
-		<installStep name="Step5 - Region Removers"> 
+		<installStep name="Step4 - Region Removers"> 
 			<optionalFileGroups order="Explicit"> 
 				<group name="Region Sapling Removers" type="SelectAny"> 
 					<plugins order="Explicit"> 
