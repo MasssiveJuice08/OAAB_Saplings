@@ -1,3 +1,6 @@
+Version 2.4.0
+- Decouples the need for BCOM for stonewood pass patch. Removes unecessary TD dependency.
+
 Version 2.3.1
 - Additonal fixes for [OAABBrotherJunipersTwinLamps](https://www.nexusmods.com/morrowind/mods/51424) by Lucevar.
 
