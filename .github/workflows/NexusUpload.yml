@@ -25,5 +25,6 @@ jobs:
         with:
           api_key: ${{ secrets.NEXUSMODS_API_KEY }}
           file_group_id: ${{ vars.NEXUSMODS_FILE_GROUP_ID }}
-          filename: OAAB Saplings
+          filename: OAAB_Saplings.zip
+          display_name: OAAB Saplings
           version: ${{ github.event.release.tag_name || github.event.inputs.version }}
