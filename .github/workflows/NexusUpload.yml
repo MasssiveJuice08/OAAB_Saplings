@@ -17,7 +17,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Zip mod files
-        run: cd dist | zip -r ../OAAB_Saplings.zip/
+        run: git archive --format=zip --output=OAAB_Saplings.zip HEAD
         
       - name: Upload mod to NexusMods
         id: upload
