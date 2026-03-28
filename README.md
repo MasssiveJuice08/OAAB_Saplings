@@ -70,7 +70,6 @@ Pick from the following folders (only `00 Core` is required)
 ### Load Order
 
 - Any plugins in `12 Region Removers` must load after **all** other OAAB Saplings plugins.
-- `OAAB_Saplings SWP patch.esp` must load after `OAAB_Saplings BCOM patch.esp`
 - **OpenMW groundcover users only**: `groundcover=OAAB_Saplings.esm` should load before all other OAAB Sapling plugins.
 
 It is recommended you use [Mlox](https://github.com/rfuzzo/mlox/releases) or [Plox](https://www.nexusmods.com/morrowind/mods/54262) to sort your load order. Load order rules for OAAB Saplings are already included in [mlox-rules](https://github.com/DanaePlays/mlox-rules). Alternatively, if you are following a modlist from [MOMW](https://modding-openmw.com/), consult the recommended load order given there.
